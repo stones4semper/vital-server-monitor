@@ -2,6 +2,7 @@ import React, { useEffect, useRef, useState, useCallback } from 'react';
 import { ScrollView, Text, View, ActivityIndicator, StyleSheet, Alert, RefreshControl, AppState } from 'react-native';
 import { useNavigation } from '@react-navigation/native';
 import { MaterialIcons } from '@expo/vector-icons';
+import { SafeAreaView } from 'react-native-safe-area-context';
 
 import useWebSocket from '../hooks/useWebSocket';
 import ErrorBoundary from '../components/ErrorBoundary';
@@ -147,124 +148,129 @@ const Dashboard = () => {
 	}
 
 	return (
-		<ErrorBoundary>
-			<ScrollView
-				style={styles.container}
-				refreshControl={<RefreshControl refreshing={isRefreshing} onRefresh={onRefresh} colors={['#4CAF50']} tintColor="#4CAF50" />}
-			>
-				<ConnectionStatus status={connectionStatus} lastUpdate={lastUpdate} />
+		<SafeAreaView style={{flex: 1}} edges={['right', 'left']}>
+			<ErrorBoundary>
+				<ScrollView
+					style={styles.container}
+					contentContainerStyle={{ flexGrow: 1 }}
+					scrollIndicatorInsets={{ right: 30 }}
+					contentInsetAdjustmentBehavior="automatic"
+					refreshControl={<RefreshControl refreshing={isRefreshing} onRefresh={onRefresh} colors={['#4CAF50']} tintColor="#4CAF50" />}
+				>
+					<ConnectionStatus status={connectionStatus} lastUpdate={lastUpdate} />
 
-				{alerts.length > 0 && (
-					<View style={styles.alertContainer}>
-						<MaterialIcons name="warning" size={20} color="white" />
-						<View style={{ flex: 1 }}>
-							{alerts.map((a, i) => (
-								<Text key={i} style={styles.alertText}>{a}</Text>
-							))}
+					{alerts.length > 0 && (
+						<View style={styles.alertContainer}>
+							<MaterialIcons name="warning" size={20} color="white" />
+							<View style={{ flex: 1 }}>
+								{alerts.map((a, i) => (
+									<Text key={i} style={styles.alertText}>{a}</Text>
+								))}
+							</View>
 						</View>
-					</View>
-				)}
+					)}
 
-				<Text style={styles.sectionTitle}>CPU Info</Text>
-				{metrics?.cpu?.info ? (
-					<>
-						<Text style={styles.infoText}>
-							{metrics.cpu.info.brand} — {metrics.cpu.info.cores} cores
-							{metrics.cpu.info.physicalCores ? ` (${metrics.cpu.info.physicalCores} physical)` : ''}
-						</Text>
-						{metrics.cpu.perCore?.map((core) => (
-							<ChartCard
-								key={`cpu-${core.core}`}
-								label={`CPU Core ${core.core} Load %`}
-								data={history[`cpuCore${core.core}Load`] || []}
-								metricKey={`cpuCore${core.core}Load`}
-								onPress={() => navigation.navigate('History', { metricKey: `cpuCore${core.core}Load`, label: `CPU Core ${core.core} Load %` })}
-								ySuffix={getYAxisSuffix('load')}
-							/>
-						))}
-					</>
-				) : (
-					<Text style={styles.noDataText}>No CPU data available</Text>
-				)}
-
-				<Text style={styles.sectionTitle}>GPUs</Text>
-				{metrics?.gpus?.length > 0 ? (
-					metrics.gpus.map((gpu, idx) => (
-						<View key={idx} style={{ marginBottom: 16 }}>
+					<Text style={styles.sectionTitle}>CPU Info</Text>
+					{metrics?.cpu?.info ? (
+						<>
 							<Text style={styles.infoText}>
-								{gpu.model} ({gpu.vendor}) — {gpu.vramTotalMB} MB VRAM
+								{metrics.cpu.info.brand} — {metrics.cpu.info.cores} cores
+								{metrics.cpu.info.physicalCores ? ` (${metrics.cpu.info.physicalCores} physical)` : ''}
 							</Text>
-							<ChartCard
-								label={`GPU ${idx} Temp °C`}
-								data={history[`gpu${idx}Temp`] || []}
-								metricKey={`gpu${idx}Temp`}
-								onPress={() => navigation.navigate('History', { metricKey: `gpu${idx}Temp`, label: `GPU ${idx} Temp °C` })}
-								ySuffix={getYAxisSuffix('temp')}
-							/>
-						</View>
-					))
-				) : (
-					<Text style={styles.noDataText}>No GPU data available</Text>
-				)}
+							{metrics.cpu.perCore?.map((core) => (
+								<ChartCard
+									key={`cpu-${core.core}`}
+									label={`CPU Core ${core.core} Load %`}
+									data={history[`cpuCore${core.core}Load`] || []}
+									metricKey={`cpuCore${core.core}Load`}
+									onPress={() => navigation.navigate('History', { metricKey: `cpuCore${core.core}Load`, label: `CPU Core ${core.core} Load %` })}
+									ySuffix={getYAxisSuffix('load')}
+								/>
+							))}
+						</>
+					) : (
+						<Text style={styles.noDataText}>No CPU data available</Text>
+					)}
 
-				<Text style={styles.sectionTitle}>Memory</Text>
-				<ChartCard
-					label="Memory Usage (%)"
-					data={history.memUsage || []}
-					metricKey="memUsage"
-					onPress={() => navigation.navigate('History', { metricKey: 'memUsage', label: 'Memory Usage (%)' })}
-					ySuffix={getYAxisSuffix('memUsage')}
-				/>
+					<Text style={styles.sectionTitle}>GPUs</Text>
+					{metrics?.gpus?.length > 0 ? (
+						metrics.gpus.map((gpu, idx) => (
+							<View key={idx} style={{ marginBottom: 16 }}>
+								<Text style={styles.infoText}>
+									{gpu.model} ({gpu.vendor}) — {gpu.vramTotalMB} MB VRAM
+								</Text>
+								<ChartCard
+									label={`GPU ${idx} Temp °C`}
+									data={history[`gpu${idx}Temp`] || []}
+									metricKey={`gpu${idx}Temp`}
+									onPress={() => navigation.navigate('History', { metricKey: `gpu${idx}Temp`, label: `GPU ${idx} Temp °C` })}
+									ySuffix={getYAxisSuffix('temp')}
+								/>
+							</View>
+						))
+					) : (
+						<Text style={styles.noDataText}>No GPU data available</Text>
+					)}
 
-				<Text style={styles.sectionTitle}>Cooling</Text>
-				<ChartCard
-					label="Fan Speed (RPM)"
-					data={history.fanSpeed || []}
-					metricKey="fanSpeed"
-					onPress={() => navigation.navigate('History', { metricKey: 'fanSpeed', label: 'Fan Speed (RPM)' })}
-					ySuffix={getYAxisSuffix('fanSpeed')}
-				/>
+					<Text style={styles.sectionTitle}>Memory</Text>
+					<ChartCard
+						label="Memory Usage (%)"
+						data={history.memUsage || []}
+						metricKey="memUsage"
+						onPress={() => navigation.navigate('History', { metricKey: 'memUsage', label: 'Memory Usage (%)' })}
+						ySuffix={getYAxisSuffix('memUsage')}
+					/>
 
-				<Text style={styles.sectionTitle}>Network</Text>
-				<ChartCard
-					label="Download Speed (MB/s)"
-					data={history.netRx || []}
-					metricKey="netRx"
-					onPress={() => navigation.navigate('History', { metricKey: 'netRx', label: 'Download Speed (MB/s)' })}
-					ySuffix={getYAxisSuffix('netRx')}
-				/>
-				<ChartCard
-					label="Upload Speed (MB/s)"
-					data={history.netTx || []}
-					metricKey="netTx"
-					onPress={() => navigation.navigate('History', { metricKey: 'netTx', label: 'Upload Speed (MB/s)' })}
-					ySuffix={getYAxisSuffix('netTx')}
-				/>
+					<Text style={styles.sectionTitle}>Cooling</Text>
+					<ChartCard
+						label="Fan Speed (RPM)"
+						data={history.fanSpeed || []}
+						metricKey="fanSpeed"
+						onPress={() => navigation.navigate('History', { metricKey: 'fanSpeed', label: 'Fan Speed (RPM)' })}
+						ySuffix={getYAxisSuffix('fanSpeed')}
+					/>
 
-				<Text style={styles.sectionTitle}>Storage</Text>
-				<ChartCard
-					label="Disk Usage (%)"
-					data={history.diskUsage || []}
-					metricKey="diskUsage"
-					onPress={() => navigation.navigate('History', { metricKey: 'diskUsage', label: 'Disk Usage (%)' })}
-					ySuffix={getYAxisSuffix('diskUsage')}
-				/>
-				<ChartCard
-					label="Disk Read Speed (MB/s)"
-					data={history.diskReadMBps || []}
-					metricKey="diskReadMBps"
-					onPress={() => navigation.navigate('History', { metricKey: 'diskReadMBps', label: 'Disk Read Speed (MB/s)' })}
-					ySuffix={getYAxisSuffix('diskRead')}
-				/>
-				<ChartCard
-					label="Disk Write Speed (MB/s)"
-					data={history.diskWriteMBps || []}
-					metricKey="diskWriteMBps"
-					onPress={() => navigation.navigate('History', { metricKey: 'diskWriteMBps', label: 'Disk Write Speed (MB/s)' })}
-					ySuffix={getYAxisSuffix('diskWrite')}
-				/>
-			</ScrollView>
-		</ErrorBoundary>
+					<Text style={styles.sectionTitle}>Network</Text>
+					<ChartCard
+						label="Download Speed (MB/s)"
+						data={history.netRx || []}
+						metricKey="netRx"
+						onPress={() => navigation.navigate('History', { metricKey: 'netRx', label: 'Download Speed (MB/s)' })}
+						ySuffix={getYAxisSuffix('netRx')}
+					/>
+					<ChartCard
+						label="Upload Speed (MB/s)"
+						data={history.netTx || []}
+						metricKey="netTx"
+						onPress={() => navigation.navigate('History', { metricKey: 'netTx', label: 'Upload Speed (MB/s)' })}
+						ySuffix={getYAxisSuffix('netTx')}
+					/>
+
+					<Text style={styles.sectionTitle}>Storage</Text>
+					<ChartCard
+						label="Disk Usage (%)"
+						data={history.diskUsage || []}
+						metricKey="diskUsage"
+						onPress={() => navigation.navigate('History', { metricKey: 'diskUsage', label: 'Disk Usage (%)' })}
+						ySuffix={getYAxisSuffix('diskUsage')}
+					/>
+					<ChartCard
+						label="Disk Read Speed (MB/s)"
+						data={history.diskReadMBps || []}
+						metricKey="diskReadMBps"
+						onPress={() => navigation.navigate('History', { metricKey: 'diskReadMBps', label: 'Disk Read Speed (MB/s)' })}
+						ySuffix={getYAxisSuffix('diskRead')}
+					/>
+					<ChartCard
+						label="Disk Write Speed (MB/s)"
+						data={history.diskWriteMBps || []}
+						metricKey="diskWriteMBps"
+						onPress={() => navigation.navigate('History', { metricKey: 'diskWriteMBps', label: 'Disk Write Speed (MB/s)' })}
+						ySuffix={getYAxisSuffix('diskWrite')}
+					/>
+				</ScrollView>
+			</ErrorBoundary>
+		</SafeAreaView>
 	);
 };
 
