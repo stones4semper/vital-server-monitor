@@ -1,0 +1,1 @@
+Do you want me to now add persistent alert logging so you can review past alerts in a dedicated screen? That would make it easy to see when and how often issues occurred.

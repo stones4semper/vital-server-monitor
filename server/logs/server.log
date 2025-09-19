@@ -1,0 +1,1378 @@
+[INFO] 2025-09-19T08:04:20.526Z: Server running on port 3000
+[INFO] 2025-09-19T08:04:20.529Z: Environment: development
+[INFO] 2025-09-19T08:04:20.530Z: Connected to the SQLite database.
+[INFO] 2025-09-19T08:04:20.542Z: Metrics table ready
+[INFO] 2025-09-19T08:13:20.135Z: Server running on port 3000
+[INFO] 2025-09-19T08:13:20.136Z: Environment: development
+[INFO] 2025-09-19T08:13:20.137Z: Connected to the SQLite database.
+[INFO] 2025-09-19T08:13:20.138Z: Metrics table ready
+[INFO] 2025-09-19T08:13:26.892Z: Server running on port 3000
+[INFO] 2025-09-19T08:13:26.894Z: Environment: development
+[INFO] 2025-09-19T08:13:26.894Z: Connected to the SQLite database.
+[INFO] 2025-09-19T08:13:26.895Z: Metrics table ready
+[INFO] 2025-09-19T08:27:32.092Z: Server running on port 3000
+[INFO] 2025-09-19T08:27:32.100Z: Environment: development
+[INFO] 2025-09-19T08:27:32.102Z: Connected to the SQLite database.
+[INFO] 2025-09-19T08:27:32.106Z: Metrics table ready
+[INFO] 2025-09-19T08:27:35.544Z: Server running on port 3000
+[INFO] 2025-09-19T08:27:35.545Z: Environment: development
+[INFO] 2025-09-19T08:27:35.546Z: Connected to the SQLite database.
+[INFO] 2025-09-19T08:27:35.546Z: Metrics table ready
+[INFO] 2025-09-19T08:27:43.819Z: Server running on port 3000
+[INFO] 2025-09-19T08:27:43.820Z: Environment: development
+[INFO] 2025-09-19T08:27:43.820Z: Connected to the SQLite database.
+[INFO] 2025-09-19T08:27:43.821Z: Metrics table ready
+[INFO] 2025-09-19T08:27:47.944Z: Server running on port 3000
+[INFO] 2025-09-19T08:27:47.946Z: Environment: development
+[INFO] 2025-09-19T08:27:47.946Z: Connected to the SQLite database.
+[INFO] 2025-09-19T08:27:47.947Z: Metrics table ready
+[INFO] 2025-09-19T08:28:01.601Z: Server running on port 3000
+[INFO] 2025-09-19T08:28:01.603Z: Environment: development
+[INFO] 2025-09-19T08:28:01.604Z: Connected to the SQLite database.
+[INFO] 2025-09-19T08:28:01.605Z: Metrics table ready
+[INFO] 2025-09-19T08:28:05.256Z: Server running on port 3000
+[INFO] 2025-09-19T08:28:05.257Z: Environment: development
+[INFO] 2025-09-19T08:28:05.257Z: Connected to the SQLite database.
+[INFO] 2025-09-19T08:28:05.258Z: Metrics table ready
+[INFO] 2025-09-19T08:28:14.192Z: Server running on port 3000
+[INFO] 2025-09-19T08:28:14.193Z: Environment: development
+[INFO] 2025-09-19T08:28:14.193Z: Connected to the SQLite database.
+[INFO] 2025-09-19T08:28:14.194Z: Metrics table ready
+[INFO] 2025-09-19T08:39:20.718Z: Client connected: 1758271160718l8i15qrpe
+[INFO] 2025-09-19T08:39:22.375Z: Client disconnected: 1758271160718l8i15qrpe
+[INFO] 2025-09-19T08:39:22.379Z: Client connected: 175827116237921fpcoi4e
+[INFO] 2025-09-19T08:39:23.783Z: Client disconnected: 175827116237921fpcoi4e
+[INFO] 2025-09-19T08:39:23.788Z: Client connected: 17582711637881qkcde3xc
+[INFO] 2025-09-19T08:39:25.187Z: Client disconnected: 17582711637881qkcde3xc
+[INFO] 2025-09-19T08:39:25.192Z: Client connected: 1758271165192317bflcbx
+[INFO] 2025-09-19T08:39:26.495Z: Client disconnected: 1758271165192317bflcbx
+[INFO] 2025-09-19T08:39:26.502Z: Client connected: 1758271166502srm9q81b7
+[INFO] 2025-09-19T08:39:27.890Z: Client disconnected: 1758271166502srm9q81b7
+[INFO] 2025-09-19T08:39:27.898Z: Client connected: 1758271167898vbi2aoyzj
+[INFO] 2025-09-19T08:39:29.240Z: Client disconnected: 1758271167898vbi2aoyzj
+[INFO] 2025-09-19T08:39:29.244Z: Client connected: 1758271169244g4699htek
+[INFO] 2025-09-19T08:39:30.636Z: Client disconnected: 1758271169244g4699htek
+[INFO] 2025-09-19T08:39:30.638Z: Client connected: 1758271170638wn8al50oy
+[INFO] 2025-09-19T08:39:32.063Z: Client disconnected: 1758271170638wn8al50oy
+[INFO] 2025-09-19T08:39:32.068Z: Client connected: 1758271172068jzxmq9g53
+[INFO] 2025-09-19T08:39:33.454Z: Client disconnected: 1758271172068jzxmq9g53
+[INFO] 2025-09-19T08:39:33.458Z: Client connected: 175827117345853f2cce3e
+[INFO] 2025-09-19T08:39:34.893Z: Client disconnected: 175827117345853f2cce3e
+[INFO] 2025-09-19T08:39:34.899Z: Client connected: 1758271174899qtio272fh
+[INFO] 2025-09-19T08:39:36.361Z: Client disconnected: 1758271174899qtio272fh
+[INFO] 2025-09-19T08:39:36.366Z: Client connected: 1758271176366ln2spuva2
+[INFO] 2025-09-19T08:39:37.755Z: Client disconnected: 1758271176366ln2spuva2
+[INFO] 2025-09-19T08:39:37.761Z: Client connected: 1758271177761u7kirbf31
+[INFO] 2025-09-19T08:39:39.020Z: Client disconnected: 1758271177761u7kirbf31
+[INFO] 2025-09-19T08:39:39.026Z: Client connected: 1758271179026x0ca9wbt9
+[INFO] 2025-09-19T08:39:40.453Z: Client disconnected: 1758271179026x0ca9wbt9
+[INFO] 2025-09-19T08:39:40.457Z: Client connected: 1758271180457zadixy0iq
+[INFO] 2025-09-19T08:39:41.854Z: Client disconnected: 1758271180457zadixy0iq
+[INFO] 2025-09-19T08:39:41.860Z: Client connected: 1758271181860kw87ta5pb
+[INFO] 2025-09-19T08:39:43.290Z: Client disconnected: 1758271181860kw87ta5pb
+[INFO] 2025-09-19T08:39:43.294Z: Client connected: 17582711832947pnd9kvj4
+[INFO] 2025-09-19T08:39:44.712Z: Client disconnected: 17582711832947pnd9kvj4
+[INFO] 2025-09-19T08:39:44.717Z: Client connected: 17582711847177a1qhswxl
+[INFO] 2025-09-19T08:39:46.128Z: Client disconnected: 17582711847177a1qhswxl
+[INFO] 2025-09-19T08:39:46.133Z: Client connected: 1758271186133paw5e3rks
+[INFO] 2025-09-19T08:39:47.537Z: Client disconnected: 1758271186133paw5e3rks
+[INFO] 2025-09-19T08:39:47.542Z: Client connected: 175827118754285cvmgykx
+[INFO] 2025-09-19T08:39:54.205Z: Client disconnected: 175827118754285cvmgykx
+[INFO] 2025-09-19T08:39:54.209Z: Client connected: 17582711942096oy5g5fxa
+[INFO] 2025-09-19T08:39:55.600Z: Client disconnected: 17582711942096oy5g5fxa
+[INFO] 2025-09-19T08:39:55.605Z: Client connected: 1758271195605tprxvgr4z
+[INFO] 2025-09-19T08:39:57.048Z: Client disconnected: 1758271195605tprxvgr4z
+[INFO] 2025-09-19T08:39:57.052Z: Client connected: 1758271197052xo2c61ogl
+[INFO] 2025-09-19T08:39:58.504Z: Client disconnected: 1758271197052xo2c61ogl
+[INFO] 2025-09-19T08:39:58.509Z: Client connected: 1758271198509c5ji6v1yz
+[INFO] 2025-09-19T08:39:59.916Z: Client disconnected: 1758271198509c5ji6v1yz
+[INFO] 2025-09-19T08:39:59.917Z: Client connected: 1758271199917rz5tabwvo
+[INFO] 2025-09-19T08:40:01.377Z: Client disconnected: 1758271199917rz5tabwvo
+[INFO] 2025-09-19T08:40:01.383Z: Client connected: 1758271201383cjbng1jiu
+[INFO] 2025-09-19T08:40:02.800Z: Client disconnected: 1758271201383cjbng1jiu
+[INFO] 2025-09-19T08:40:02.804Z: Client connected: 1758271202804dibn2ur3g
+[INFO] 2025-09-19T08:40:04.194Z: Client disconnected: 1758271202804dibn2ur3g
+[INFO] 2025-09-19T08:40:04.198Z: Client connected: 1758271204198kmonj1vq1
+[INFO] 2025-09-19T08:40:05.618Z: Client disconnected: 1758271204198kmonj1vq1
+[INFO] 2025-09-19T08:40:05.623Z: Client connected: 1758271205623bihkf3zgq
+[INFO] 2025-09-19T08:40:07.095Z: Client disconnected: 1758271205623bihkf3zgq
+[INFO] 2025-09-19T08:40:07.101Z: Client connected: 1758271207101ma0piu2x6
+[INFO] 2025-09-19T08:40:08.569Z: Client disconnected: 1758271207101ma0piu2x6
+[INFO] 2025-09-19T08:40:08.574Z: Client connected: 1758271208574j7rvhywri
+[INFO] 2025-09-19T08:40:09.987Z: Client disconnected: 1758271208574j7rvhywri
+[INFO] 2025-09-19T08:40:09.990Z: Client connected: 1758271209990st1hubf0e
+[INFO] 2025-09-19T08:40:11.389Z: Client disconnected: 1758271209990st1hubf0e
+[INFO] 2025-09-19T08:40:11.429Z: Client connected: 1758271211429xf351aq2c
+[INFO] 2025-09-19T08:40:12.825Z: Client disconnected: 1758271211429xf351aq2c
+[INFO] 2025-09-19T08:40:12.830Z: Client connected: 17582712128303li2c2t8p
+[INFO] 2025-09-19T08:40:14.247Z: Client disconnected: 17582712128303li2c2t8p
+[INFO] 2025-09-19T08:40:14.251Z: Client connected: 1758271214251f1jhsjodk
+[INFO] 2025-09-19T08:40:15.655Z: Client disconnected: 1758271214251f1jhsjodk
+[INFO] 2025-09-19T08:40:15.660Z: Client connected: 1758271215660bicyh07dw
+[INFO] 2025-09-19T08:40:16.979Z: Client disconnected: 1758271215660bicyh07dw
+[INFO] 2025-09-19T08:40:17.793Z: Client connected: 17582712177934kw5q3df1
+[INFO] 2025-09-19T08:40:23.783Z: Client disconnected: 17582712177934kw5q3df1
+[INFO] 2025-09-19T08:40:23.786Z: Client connected: 1758271223786w0eq0j096
+[INFO] 2025-09-19T08:40:24.080Z: Client connected: 1758271224080j435ke5le
+[INFO] 2025-09-19T08:40:24.276Z: Client disconnected: 1758271223786w0eq0j096
+[INFO] 2025-09-19T08:40:24.461Z: Client disconnected: 1758271224080j435ke5le
+[INFO] 2025-09-19T08:40:27.545Z: Client connected: 1758271227545739mj6ysf
+[INFO] 2025-09-19T08:41:02.238Z: Client disconnected: 1758271227545739mj6ysf
+[INFO] 2025-09-19T08:41:58.235Z: Client connected: 1758271318235a8p4i8hzr
+[INFO] 2025-09-19T08:42:48.215Z: Client connected: 1758271368215wzsda33gg
+[INFO] 2025-09-19T08:42:48.329Z: Client connected: 1758271368329ypkop60yg
+[INFO] 2025-09-19T08:42:48.423Z: Client disconnected: 1758271368215wzsda33gg
+[INFO] 2025-09-19T08:42:48.460Z: Client disconnected: 1758271318235a8p4i8hzr
+[INFO] 2025-09-19T08:42:48.488Z: Client disconnected: 1758271368329ypkop60yg
+[INFO] 2025-09-19T08:42:48.493Z: Client connected: 1758271368493fo1hn361o
+[INFO] 2025-09-19T08:42:54.683Z: Client disconnected: 1758271368493fo1hn361o
+[INFO] 2025-09-19T08:42:54.687Z: Client connected: 1758271374687gmlb96635
+[INFO] 2025-09-19T08:42:56.165Z: Client disconnected: 1758271374687gmlb96635
+[INFO] 2025-09-19T08:42:56.170Z: Client connected: 17582713761707av5i6x72
+[INFO] 2025-09-19T08:42:57.576Z: Client disconnected: 17582713761707av5i6x72
+[INFO] 2025-09-19T08:42:57.581Z: Client connected: 1758271377581g9vinera1
+[INFO] 2025-09-19T08:43:03.811Z: Client disconnected: 1758271377581g9vinera1
+[INFO] 2025-09-19T08:43:03.814Z: Client connected: 1758271383814vpf94cfl0
+[INFO] 2025-09-19T08:43:05.060Z: Client disconnected: 1758271383814vpf94cfl0
+[INFO] 2025-09-19T08:43:05.064Z: Client connected: 1758271385064p0v6x6brf
+[INFO] 2025-09-19T08:43:06.317Z: Client disconnected: 1758271385064p0v6x6brf
+[INFO] 2025-09-19T08:43:06.322Z: Client connected: 1758271386322tvqttbnkw
+[INFO] 2025-09-19T08:43:07.818Z: Client disconnected: 1758271386322tvqttbnkw
+[INFO] 2025-09-19T08:43:07.822Z: Client connected: 17582713878228lc3n9bod
+[INFO] 2025-09-19T08:43:09.424Z: Client disconnected: 17582713878228lc3n9bod
+[INFO] 2025-09-19T08:43:09.428Z: Client connected: 17582713894288z4g1fdd5
+[INFO] 2025-09-19T08:43:10.820Z: Client disconnected: 17582713894288z4g1fdd5
+[INFO] 2025-09-19T08:43:10.825Z: Client connected: 1758271390825h24ww2s2t
+[INFO] 2025-09-19T08:43:16.472Z: Client disconnected: 1758271390825h24ww2s2t
+[INFO] 2025-09-19T08:43:16.477Z: Client connected: 1758271396477vb0qqsyzx
+[INFO] 2025-09-19T08:43:17.951Z: Client disconnected: 1758271396477vb0qqsyzx
+[INFO] 2025-09-19T08:43:17.956Z: Client connected: 1758271397956b2zh56ekl
+[INFO] 2025-09-19T08:43:19.483Z: Client disconnected: 1758271397956b2zh56ekl
+[INFO] 2025-09-19T08:43:19.487Z: Client connected: 1758271399487ly4okak5p
+[INFO] 2025-09-19T08:43:20.906Z: Client disconnected: 1758271399487ly4okak5p
+[INFO] 2025-09-19T08:43:20.910Z: Client connected: 1758271400910nujrqql8u
+[INFO] 2025-09-19T08:43:22.276Z: Client disconnected: 1758271400910nujrqql8u
+[INFO] 2025-09-19T08:43:22.281Z: Client connected: 1758271402281z9txrf60f
+[INFO] 2025-09-19T08:43:23.668Z: Client disconnected: 1758271402281z9txrf60f
+[INFO] 2025-09-19T08:43:23.673Z: Client connected: 175827140367375vudrgcr
+[INFO] 2025-09-19T08:43:25.058Z: Client disconnected: 175827140367375vudrgcr
+[INFO] 2025-09-19T08:43:25.062Z: Client connected: 1758271405062w94pl075p
+[INFO] 2025-09-19T08:43:26.519Z: Client disconnected: 1758271405062w94pl075p
+[INFO] 2025-09-19T08:43:26.524Z: Client connected: 1758271406524ixm3fiaso
+[INFO] 2025-09-19T08:43:27.961Z: Client disconnected: 1758271406524ixm3fiaso
+[INFO] 2025-09-19T08:43:27.965Z: Client connected: 175827140796551owdzan3
+[INFO] 2025-09-19T08:43:29.392Z: Client disconnected: 175827140796551owdzan3
+[INFO] 2025-09-19T08:43:29.397Z: Client connected: 1758271409397labli90pb
+[INFO] 2025-09-19T08:43:35.755Z: Client disconnected: 1758271409397labli90pb
+[INFO] 2025-09-19T08:43:35.758Z: Client connected: 17582714157589vrwkczpo
+[INFO] 2025-09-19T08:43:37.215Z: Client disconnected: 17582714157589vrwkczpo
+[INFO] 2025-09-19T08:43:37.220Z: Client connected: 17582714172204qfquorz7
+[INFO] 2025-09-19T08:43:38.594Z: Client disconnected: 17582714172204qfquorz7
+[INFO] 2025-09-19T08:43:38.599Z: Client connected: 1758271418599fjuahnbrc
+[INFO] 2025-09-19T08:43:39.998Z: Client disconnected: 1758271418599fjuahnbrc
+[INFO] 2025-09-19T08:43:40.003Z: Client connected: 1758271420003h5q5t87ax
+[INFO] 2025-09-19T08:43:41.403Z: Client disconnected: 1758271420003h5q5t87ax
+[INFO] 2025-09-19T08:43:41.415Z: Client connected: 175827142141534rnxxhi9
+[INFO] 2025-09-19T08:43:42.823Z: Client disconnected: 175827142141534rnxxhi9
+[INFO] 2025-09-19T08:43:42.828Z: Client connected: 1758271422827ek5iiaacd
+[INFO] 2025-09-19T08:43:44.283Z: Client disconnected: 1758271422827ek5iiaacd
+[INFO] 2025-09-19T08:43:44.285Z: Client connected: 1758271424285z4x4fbbqk
+[INFO] 2025-09-19T08:43:45.686Z: Client disconnected: 1758271424285z4x4fbbqk
+[INFO] 2025-09-19T08:43:45.691Z: Client connected: 17582714256911co6ao339
+[INFO] 2025-09-19T08:43:47.061Z: Client disconnected: 17582714256911co6ao339
+[INFO] 2025-09-19T08:43:47.066Z: Client connected: 1758271427066u348xkyp2
+[INFO] 2025-09-19T08:43:48.459Z: Client disconnected: 1758271427066u348xkyp2
+[INFO] 2025-09-19T08:43:48.464Z: Client connected: 1758271428464842576zsh
+[INFO] 2025-09-19T08:43:49.856Z: Client disconnected: 1758271428464842576zsh
+[INFO] 2025-09-19T08:43:49.861Z: Client connected: 1758271429861f6en19qf4
+[INFO] 2025-09-19T08:43:51.297Z: Client disconnected: 1758271429861f6en19qf4
+[INFO] 2025-09-19T08:43:51.302Z: Client connected: 1758271431302m46mijzjb
+[INFO] 2025-09-19T08:43:52.734Z: Client disconnected: 1758271431302m46mijzjb
+[INFO] 2025-09-19T08:43:52.739Z: Client connected: 1758271432739mk05v9mqu
+[INFO] 2025-09-19T08:43:54.138Z: Client disconnected: 1758271432739mk05v9mqu
+[INFO] 2025-09-19T08:43:54.142Z: Client connected: 1758271434142s3vuszvmf
+[INFO] 2025-09-19T08:43:55.505Z: Client disconnected: 1758271434142s3vuszvmf
+[INFO] 2025-09-19T08:43:55.509Z: Client connected: 1758271435509hgujoojhk
+[INFO] 2025-09-19T08:43:56.911Z: Client disconnected: 1758271435509hgujoojhk
+[INFO] 2025-09-19T08:43:56.914Z: Client connected: 1758271436914tcdhvjvf8
+[INFO] 2025-09-19T08:43:58.355Z: Client disconnected: 1758271436914tcdhvjvf8
+[INFO] 2025-09-19T08:43:58.360Z: Client connected: 1758271438360w7db021jt
+[INFO] 2025-09-19T08:44:04.636Z: Client disconnected: 1758271438360w7db021jt
+[INFO] 2025-09-19T08:44:04.641Z: Client connected: 1758271444641pwmzamkl2
+[INFO] 2025-09-19T08:44:05.892Z: Client disconnected: 1758271444641pwmzamkl2
+[INFO] 2025-09-19T08:44:05.897Z: Client connected: 17582714458975j9jyk70q
+[INFO] 2025-09-19T08:44:07.399Z: Client disconnected: 17582714458975j9jyk70q
+[INFO] 2025-09-19T08:44:07.404Z: Client connected: 17582714474043zrzmbauf
+[INFO] 2025-09-19T08:44:08.613Z: Client disconnected: 17582714474043zrzmbauf
+[INFO] 2025-09-19T08:44:08.618Z: Client connected: 1758271448618uu1msk7kg
+[INFO] 2025-09-19T08:44:09.842Z: Client disconnected: 1758271448618uu1msk7kg
+[INFO] 2025-09-19T08:44:09.847Z: Client connected: 1758271449847k96py7u5z
+[INFO] 2025-09-19T08:44:11.314Z: Client disconnected: 1758271449847k96py7u5z
+[INFO] 2025-09-19T08:44:11.318Z: Client connected: 1758271451318zafiry8hq
+[INFO] 2025-09-19T08:44:12.754Z: Client disconnected: 1758271451318zafiry8hq
+[INFO] 2025-09-19T08:44:12.759Z: Client connected: 1758271452759qp4flcf3p
+[INFO] 2025-09-19T08:44:14.011Z: Client disconnected: 1758271452759qp4flcf3p
+[INFO] 2025-09-19T08:44:14.016Z: Client connected: 1758271454016b72birxm3
+[INFO] 2025-09-19T08:44:15.524Z: Client disconnected: 1758271454016b72birxm3
+[INFO] 2025-09-19T08:44:15.529Z: Client connected: 1758271455529twb2tvtff
+[INFO] 2025-09-19T08:44:16.933Z: Client disconnected: 1758271455529twb2tvtff
+[INFO] 2025-09-19T08:44:16.943Z: Client connected: 1758271456943ptcjfkra6
+[INFO] 2025-09-19T08:44:18.190Z: Client disconnected: 1758271456943ptcjfkra6
+[INFO] 2025-09-19T08:44:18.192Z: Client connected: 1758271458192hl0fhvu23
+[INFO] 2025-09-19T08:44:19.485Z: Client disconnected: 1758271458192hl0fhvu23
+[INFO] 2025-09-19T08:44:19.492Z: Client connected: 175827145949295c4jstwn
+[INFO] 2025-09-19T08:44:20.792Z: Client disconnected: 175827145949295c4jstwn
+[INFO] 2025-09-19T08:44:20.797Z: Client connected: 1758271460797wlkx5lc05
+[INFO] 2025-09-19T08:44:22.108Z: Client disconnected: 1758271460797wlkx5lc05
+[INFO] 2025-09-19T08:44:22.113Z: Client connected: 1758271462113hrngabyyn
+[INFO] 2025-09-19T08:44:23.426Z: Client disconnected: 1758271462113hrngabyyn
+[INFO] 2025-09-19T08:44:23.432Z: Client connected: 1758271463432ebotfsrr6
+[INFO] 2025-09-19T08:44:24.806Z: Client disconnected: 1758271463432ebotfsrr6
+[INFO] 2025-09-19T08:44:24.809Z: Client connected: 1758271464809wwt4hm7s7
+[INFO] 2025-09-19T08:44:26.044Z: Client disconnected: 1758271464809wwt4hm7s7
+[INFO] 2025-09-19T08:44:26.048Z: Client connected: 1758271466048s3krky3r5
+[INFO] 2025-09-19T08:44:27.380Z: Client disconnected: 1758271466048s3krky3r5
+[INFO] 2025-09-19T08:44:27.383Z: Client connected: 1758271467383ucnzic9tt
+[INFO] 2025-09-19T08:44:28.855Z: Client disconnected: 1758271467383ucnzic9tt
+[INFO] 2025-09-19T08:44:28.860Z: Client connected: 1758271468860x02tkdvsg
+[INFO] 2025-09-19T08:44:30.322Z: Client disconnected: 1758271468860x02tkdvsg
+[INFO] 2025-09-19T08:44:30.682Z: Client connected: 17582714706820p9v4ebmz
+[INFO] 2025-09-19T08:44:32.131Z: Client disconnected: 17582714706820p9v4ebmz
+[INFO] 2025-09-19T08:44:32.136Z: Client connected: 1758271472136owh24giz3
+[INFO] 2025-09-19T08:44:38.765Z: Client disconnected: 1758271472136owh24giz3
+[INFO] 2025-09-19T08:44:38.772Z: Client connected: 1758271478772ax7loi7i8
+[INFO] 2025-09-19T08:44:40.159Z: Client disconnected: 1758271478772ax7loi7i8
+[INFO] 2025-09-19T08:44:40.166Z: Client connected: 1758271480166mh924x7g7
+[INFO] 2025-09-19T08:44:45.472Z: Client disconnected: 1758271480166mh924x7g7
+[INFO] 2025-09-19T08:44:45.477Z: Client connected: 1758271485477fix3qhlvo
+[INFO] 2025-09-19T08:44:46.714Z: Client disconnected: 1758271485477fix3qhlvo
+[INFO] 2025-09-19T08:44:46.719Z: Client connected: 1758271486719o0do3plr0
+[INFO] 2025-09-19T08:44:47.946Z: Client disconnected: 1758271486719o0do3plr0
+[INFO] 2025-09-19T08:44:47.950Z: Client connected: 1758271487950wiq3vy58e
+[INFO] 2025-09-19T08:44:49.209Z: Client disconnected: 1758271487950wiq3vy58e
+[INFO] 2025-09-19T08:44:49.214Z: Client connected: 1758271489214z3ouzem7w
+[INFO] 2025-09-19T08:44:50.416Z: Client disconnected: 1758271489214z3ouzem7w
+[INFO] 2025-09-19T08:44:50.420Z: Client connected: 17582714904208dcwp9og5
+[INFO] 2025-09-19T08:44:51.635Z: Client disconnected: 17582714904208dcwp9og5
+[INFO] 2025-09-19T08:44:51.640Z: Client connected: 1758271491640qeaz6pp6a
+[INFO] 2025-09-19T08:44:52.863Z: Client disconnected: 1758271491640qeaz6pp6a
+[INFO] 2025-09-19T08:44:52.868Z: Client connected: 1758271492868lrplks8t3
+[INFO] 2025-09-19T08:44:54.113Z: Client disconnected: 1758271492868lrplks8t3
+[INFO] 2025-09-19T08:44:54.117Z: Client connected: 1758271494117s3373vew8
+[INFO] 2025-09-19T08:44:55.399Z: Client disconnected: 1758271494117s3373vew8
+[INFO] 2025-09-19T08:44:55.406Z: Client connected: 1758271495406a2918fqaw
+[INFO] 2025-09-19T08:44:56.663Z: Client disconnected: 1758271495406a2918fqaw
+[INFO] 2025-09-19T08:44:56.669Z: Client connected: 1758271496669gsyd2v8es
+[INFO] 2025-09-19T08:44:57.887Z: Client disconnected: 1758271496669gsyd2v8es
+[INFO] 2025-09-19T08:44:57.892Z: Client connected: 17582714978926113pkte7
+[INFO] 2025-09-19T08:45:00.836Z: Client disconnected: 17582714978926113pkte7
+[INFO] 2025-09-19T08:45:00.840Z: Client connected: 1758271500840vgzhmfkac
+[INFO] 2025-09-19T08:45:01.156Z: Client connected: 1758271501156emamikz3h
+[INFO] 2025-09-19T08:45:01.399Z: Client disconnected: 1758271500840vgzhmfkac
+[INFO] 2025-09-19T08:45:02.645Z: Client disconnected: 1758271501156emamikz3h
+[INFO] 2025-09-19T08:45:02.651Z: Client connected: 1758271502651c2bhbcut6
+[INFO] 2025-09-19T08:45:03.845Z: Client disconnected: 1758271502651c2bhbcut6
+[INFO] 2025-09-19T08:45:03.851Z: Client connected: 1758271503851h6xaefwcy
+[INFO] 2025-09-19T08:45:05.052Z: Client disconnected: 1758271503851h6xaefwcy
+[INFO] 2025-09-19T08:45:05.058Z: Client connected: 1758271505058kva418dm4
+[INFO] 2025-09-19T08:45:06.242Z: Client disconnected: 1758271505058kva418dm4
+[INFO] 2025-09-19T08:45:06.247Z: Client connected: 1758271506247hf97o9vw7
+[INFO] 2025-09-19T08:45:07.438Z: Client disconnected: 1758271506247hf97o9vw7
+[INFO] 2025-09-19T08:45:07.443Z: Client connected: 1758271507443i6dt158hg
+[INFO] 2025-09-19T08:45:08.633Z: Client disconnected: 1758271507443i6dt158hg
+[INFO] 2025-09-19T08:45:08.638Z: Client connected: 17582715086381dss54vq3
+[INFO] 2025-09-19T08:45:09.846Z: Client disconnected: 17582715086381dss54vq3
+[INFO] 2025-09-19T08:45:09.853Z: Client connected: 17582715098522vro8ebae
+[INFO] 2025-09-19T08:45:11.047Z: Client disconnected: 17582715098522vro8ebae
+[INFO] 2025-09-19T08:45:11.049Z: Client connected: 1758271511049edysrlgd1
+[INFO] 2025-09-19T08:45:12.436Z: Client disconnected: 1758271511049edysrlgd1
+[INFO] 2025-09-19T08:45:12.440Z: Client connected: 1758271512440myflg7ovf
+[INFO] 2025-09-19T08:45:13.905Z: Client disconnected: 1758271512440myflg7ovf
+[INFO] 2025-09-19T08:45:13.909Z: Client connected: 1758271513909b7bhfvspe
+[INFO] 2025-09-19T08:45:15.351Z: Client disconnected: 1758271513909b7bhfvspe
+[INFO] 2025-09-19T08:45:15.356Z: Client connected: 1758271515356zlt0ipfum
+[INFO] 2025-09-19T08:45:22.039Z: Client disconnected: 1758271515356zlt0ipfum
+[INFO] 2025-09-19T08:45:22.046Z: Client connected: 175827152204650nd4bllt
+[INFO] 2025-09-19T08:45:22.196Z: Client connected: 1758271522196mt96ks2ou
+[INFO] 2025-09-19T08:45:22.291Z: Client disconnected: 175827152204650nd4bllt
+[INFO] 2025-09-19T08:45:23.701Z: Client disconnected: 1758271522196mt96ks2ou
+[INFO] 2025-09-19T08:45:23.706Z: Client connected: 1758271523706sv5qrkhoi
+[INFO] 2025-09-19T08:45:25.173Z: Client disconnected: 1758271523706sv5qrkhoi
+[INFO] 2025-09-19T08:45:25.178Z: Client connected: 1758271525178op30ulhl2
+[INFO] 2025-09-19T08:45:26.698Z: Client disconnected: 1758271525178op30ulhl2
+[INFO] 2025-09-19T08:45:26.703Z: Client connected: 1758271526703opwnv0sjd
+[INFO] 2025-09-19T08:45:28.201Z: Client disconnected: 1758271526703opwnv0sjd
+[INFO] 2025-09-19T08:45:28.205Z: Client connected: 1758271528205nbazxtzyb
+[INFO] 2025-09-19T08:45:29.671Z: Client disconnected: 1758271528205nbazxtzyb
+[INFO] 2025-09-19T08:45:29.676Z: Client connected: 1758271529676yfec6aytt
+[INFO] 2025-09-19T08:45:31.083Z: Client disconnected: 1758271529676yfec6aytt
+[INFO] 2025-09-19T08:45:31.087Z: Client connected: 1758271531087abasiw7dg
+[INFO] 2025-09-19T08:45:32.550Z: Client disconnected: 1758271531087abasiw7dg
+[INFO] 2025-09-19T08:45:32.554Z: Client connected: 1758271532554b3bwvjqop
+[INFO] 2025-09-19T08:45:33.996Z: Client disconnected: 1758271532554b3bwvjqop
+[INFO] 2025-09-19T08:45:34.001Z: Client connected: 1758271534001uoi8sn3qk
+[INFO] 2025-09-19T08:45:35.443Z: Client disconnected: 1758271534001uoi8sn3qk
+[INFO] 2025-09-19T08:45:35.444Z: Client connected: 175827153544430u1z2a4u
+[INFO] 2025-09-19T08:45:36.896Z: Client disconnected: 175827153544430u1z2a4u
+[INFO] 2025-09-19T08:45:36.901Z: Client connected: 17582715369012l68m30wb
+[INFO] 2025-09-19T08:45:38.298Z: Client disconnected: 17582715369012l68m30wb
+[INFO] 2025-09-19T08:45:38.300Z: Client connected: 1758271538300pazmf1asr
+[INFO] 2025-09-19T08:45:39.784Z: Client disconnected: 1758271538300pazmf1asr
+[INFO] 2025-09-19T08:45:39.790Z: Client connected: 1758271539789o53jp7gzn
+[INFO] 2025-09-19T08:45:41.268Z: Client disconnected: 1758271539789o53jp7gzn
+[INFO] 2025-09-19T08:45:41.273Z: Client connected: 1758271541273ekez9zizt
+[INFO] 2025-09-19T08:45:42.724Z: Client disconnected: 1758271541273ekez9zizt
+[INFO] 2025-09-19T08:45:42.729Z: Client connected: 1758271542729eth1sf40e
+[INFO] 2025-09-19T08:45:44.198Z: Client disconnected: 1758271542729eth1sf40e
+[INFO] 2025-09-19T08:45:44.201Z: Client connected: 1758271544201p3461u7y5
+[INFO] 2025-09-19T08:45:50.546Z: Client disconnected: 1758271544201p3461u7y5
+[INFO] 2025-09-19T08:45:50.552Z: Client connected: 17582715505522yrd6cwpb
+[INFO] 2025-09-19T08:45:50.821Z: Server running on port 3000
+[INFO] 2025-09-19T08:45:50.823Z: Environment: development
+[INFO] 2025-09-19T08:45:50.823Z: Connected to the SQLite database.
+[INFO] 2025-09-19T08:45:50.824Z: Metrics table ready
+[INFO] 2025-09-19T08:45:53.697Z: Client connected: 175827155369774owspx2i
+[INFO] 2025-09-19T08:45:55.253Z: Client disconnected: 175827155369774owspx2i
+[INFO] 2025-09-19T08:45:55.257Z: Client connected: 1758271555257sp045ga7w
+[INFO] 2025-09-19T08:45:56.606Z: Client disconnected: 1758271555257sp045ga7w
+[INFO] 2025-09-19T08:45:56.611Z: Client connected: 175827155661153hrgut4e
+[INFO] 2025-09-19T08:45:58.017Z: Client disconnected: 175827155661153hrgut4e
+[INFO] 2025-09-19T08:45:58.020Z: Client connected: 1758271558020b9g1s18ke
+[INFO] 2025-09-19T08:45:59.434Z: Client disconnected: 1758271558020b9g1s18ke
+[INFO] 2025-09-19T08:45:59.439Z: Client connected: 1758271559439hg6pgbj44
+[INFO] 2025-09-19T08:46:00.704Z: Client disconnected: 1758271559439hg6pgbj44
+[INFO] 2025-09-19T08:46:00.710Z: Client connected: 1758271560710ibq7lsofg
+[INFO] 2025-09-19T08:46:02.083Z: Client disconnected: 1758271560710ibq7lsofg
+[INFO] 2025-09-19T08:46:02.087Z: Client connected: 17582715620872s9oij6cm
+[INFO] 2025-09-19T08:46:03.543Z: Client disconnected: 17582715620872s9oij6cm
+[INFO] 2025-09-19T08:46:03.550Z: Client connected: 17582715635508h8ju2oum
+[INFO] 2025-09-19T08:46:04.981Z: Client disconnected: 17582715635508h8ju2oum
+[INFO] 2025-09-19T08:46:04.987Z: Client connected: 1758271564987uc18485gq
+[INFO] 2025-09-19T08:46:05.306Z: Client disconnected: 1758271564987uc18485gq
+[INFO] 2025-09-19T08:46:06.317Z: Client connected: 1758271566317zggy3ruih
+[INFO] 2025-09-19T08:46:07.719Z: Client disconnected: 1758271566317zggy3ruih
+[INFO] 2025-09-19T08:46:07.724Z: Client connected: 175827156772412vrl4gc4
+[INFO] 2025-09-19T08:46:09.221Z: Client disconnected: 175827156772412vrl4gc4
+[INFO] 2025-09-19T08:46:09.227Z: Client connected: 1758271569227a0zuka02h
+[INFO] 2025-09-19T08:46:10.668Z: Client disconnected: 1758271569227a0zuka02h
+[INFO] 2025-09-19T08:46:10.673Z: Client connected: 1758271570673gazpetuyq
+[INFO] 2025-09-19T08:46:12.118Z: Client disconnected: 1758271570673gazpetuyq
+[INFO] 2025-09-19T08:46:12.122Z: Client connected: 1758271572122fk7qisq2l
+[INFO] 2025-09-19T08:46:13.561Z: Client disconnected: 1758271572122fk7qisq2l
+[INFO] 2025-09-19T08:46:13.566Z: Client connected: 1758271573566jessmtszp
+[INFO] 2025-09-19T08:46:15.007Z: Client disconnected: 1758271573566jessmtszp
+[INFO] 2025-09-19T08:46:15.012Z: Client connected: 1758271575012bon7ub6y9
+[INFO] 2025-09-19T08:46:16.257Z: Client disconnected: 1758271575012bon7ub6y9
+[INFO] 2025-09-19T08:46:16.262Z: Client connected: 175827157626225wkh9ng0
+[INFO] 2025-09-19T08:46:17.661Z: Client disconnected: 175827157626225wkh9ng0
+[INFO] 2025-09-19T08:46:17.665Z: Client connected: 1758271577665ul0kv0s2b
+[INFO] 2025-09-19T08:46:19.084Z: Client disconnected: 1758271577665ul0kv0s2b
+[INFO] 2025-09-19T08:46:19.089Z: Client connected: 175827157908944rwblfm5
+[INFO] 2025-09-19T08:46:24.600Z: Client connected: 1758271584600izxn5pjqq
+[INFO] 2025-09-19T08:46:24.794Z: Client disconnected: 175827157908944rwblfm5
+[INFO] 2025-09-19T08:46:24.796Z: Client connected: 1758271584796qcwngsr5l
+[INFO] 2025-09-19T08:46:26.354Z: Client disconnected: 1758271584796qcwngsr5l
+[INFO] 2025-09-19T08:46:26.357Z: Client connected: 1758271586357b6jow2jdi
+[INFO] 2025-09-19T08:46:27.286Z: Client disconnected: 1758271586357b6jow2jdi
+[INFO] 2025-09-19T08:46:27.292Z: Client connected: 1758271587292sqywev3fs
+[INFO] 2025-09-19T08:46:28.010Z: Client disconnected: 1758271587292sqywev3fs
+[INFO] 2025-09-19T08:46:29.951Z: Client connected: 1758271589951lzm2b51w0
+[INFO] 2025-09-19T08:46:30.342Z: Client disconnected: 1758271589951lzm2b51w0
+[INFO] 2025-09-19T08:46:30.346Z: Client connected: 1758271590346tbepljxae
+[INFO] 2025-09-19T08:46:31.011Z: Client disconnected: 1758271590346tbepljxae
+[INFO] 2025-09-19T08:46:31.016Z: Client connected: 1758271591016u28e73org
+[INFO] 2025-09-19T08:46:32.296Z: Client disconnected: 1758271591016u28e73org
+[INFO] 2025-09-19T08:46:32.301Z: Client connected: 1758271592301ae1be9wfk
+[INFO] 2025-09-19T08:46:33.131Z: Client disconnected: 1758271592301ae1be9wfk
+[INFO] 2025-09-19T08:46:33.138Z: Client connected: 1758271593137pcfbbkfzv
+[INFO] 2025-09-19T08:46:33.941Z: Client disconnected: 1758271593137pcfbbkfzv
+[INFO] 2025-09-19T08:46:33.944Z: Client connected: 175827159394441yptmb47
+[INFO] 2025-09-19T08:46:35.414Z: Client disconnected: 175827159394441yptmb47
+[INFO] 2025-09-19T08:46:35.421Z: Client connected: 1758271595421iaqne0ust
+[INFO] 2025-09-19T08:46:36.007Z: Client disconnected: 1758271595421iaqne0ust
+[INFO] 2025-09-19T08:46:36.012Z: Client connected: 1758271596012maeo0gien
+[INFO] 2025-09-19T08:46:36.982Z: Client disconnected: 1758271596012maeo0gien
+[INFO] 2025-09-19T08:46:36.987Z: Client connected: 1758271596987xgwpw1365
+[INFO] 2025-09-19T08:46:38.424Z: Client disconnected: 1758271596987xgwpw1365
+[INFO] 2025-09-19T08:46:38.430Z: Client connected: 1758271598430xpypgixq9
+[INFO] 2025-09-19T08:46:39.275Z: Client disconnected: 1758271598430xpypgixq9
+[INFO] 2025-09-19T08:46:39.279Z: Client connected: 1758271599279mh7xt9lwl
+[INFO] 2025-09-19T08:46:40.157Z: Client disconnected: 1758271599279mh7xt9lwl
+[INFO] 2025-09-19T08:46:40.162Z: Client connected: 17582716001627jkf73xj9
+[INFO] 2025-09-19T08:46:41.401Z: Client disconnected: 17582716001627jkf73xj9
+[INFO] 2025-09-19T08:46:41.410Z: Client connected: 1758271601410zqu1h9s4a
+[INFO] 2025-09-19T08:46:42.147Z: Client disconnected: 1758271601410zqu1h9s4a
+[INFO] 2025-09-19T08:46:42.148Z: Client connected: 1758271602148y4hf0dmd9
+[INFO] 2025-09-19T08:46:42.449Z: Client disconnected: 1758271602148y4hf0dmd9
+[INFO] 2025-09-19T08:46:45.398Z: Client connected: 1758271605398sc0wzo4w4
+[INFO] 2025-09-19T08:46:46.148Z: Client disconnected: 1758271605398sc0wzo4w4
+[INFO] 2025-09-19T08:46:46.151Z: Client connected: 1758271606151rve8lgoux
+[INFO] 2025-09-19T08:46:47.104Z: Client disconnected: 1758271606151rve8lgoux
+[INFO] 2025-09-19T08:46:47.112Z: Client connected: 1758271607112o7lhu2yhu
+[INFO] 2025-09-19T08:46:48.362Z: Client disconnected: 1758271607112o7lhu2yhu
+[INFO] 2025-09-19T08:46:48.367Z: Client connected: 1758271608367ht3m60gtt
+[INFO] 2025-09-19T08:46:49.165Z: Client disconnected: 1758271608367ht3m60gtt
+[INFO] 2025-09-19T08:46:49.171Z: Client connected: 17582716091714un9relwb
+[INFO] 2025-09-19T08:46:50.349Z: Client connected: 1758271610349maftdoige
+[INFO] 2025-09-19T08:46:50.479Z: Client disconnected: 17582716091714un9relwb
+[INFO] 2025-09-19T08:46:51.200Z: Client disconnected: 1758271610349maftdoige
+[INFO] 2025-09-19T08:46:51.205Z: Client connected: 1758271611205ulykn7at6
+[INFO] 2025-09-19T08:46:52.467Z: Client disconnected: 1758271611205ulykn7at6
+[INFO] 2025-09-19T08:46:52.468Z: Client connected: 1758271612468l7zvb6t63
+[INFO] 2025-09-19T08:46:53.182Z: Client disconnected: 1758271612468l7zvb6t63
+[INFO] 2025-09-19T08:46:53.187Z: Client connected: 1758271613187731ayynnf
+[INFO] 2025-09-19T08:46:58.219Z: Server running on port 3000
+[INFO] 2025-09-19T08:46:58.221Z: Environment: development
+[INFO] 2025-09-19T08:46:58.221Z: Connected to the SQLite database.
+[INFO] 2025-09-19T08:46:58.222Z: Metrics table ready
+[INFO] 2025-09-19T08:47:01.023Z: Client connected: 1758271621023omosgj5wr
+[INFO] 2025-09-19T08:47:02.498Z: Client disconnected: 1758271621023omosgj5wr
+[INFO] 2025-09-19T08:47:02.502Z: Client connected: 1758271622502a16hwnio7
+[INFO] 2025-09-19T08:51:44.159Z: Server running on port 3000
+[INFO] 2025-09-19T08:51:44.160Z: Environment: development
+[INFO] 2025-09-19T08:51:44.161Z: Connected to SQLite.
+[INFO] 2025-09-19T08:51:44.161Z: Metrics table ready
+[INFO] 2025-09-19T08:51:45.934Z: Client connected: 1758271905934f7cuv89
+[ERROR] 2025-09-19T08:51:45.936Z: WS metrics error: systeminformation.sensors is not a function
+[ERROR] 2025-09-19T08:51:46.935Z: WS metrics error: systeminformation.sensors is not a function
+[ERROR] 2025-09-19T08:51:47.935Z: WS metrics error: systeminformation.sensors is not a function
+[ERROR] 2025-09-19T08:51:48.935Z: WS metrics error: systeminformation.sensors is not a function
+[ERROR] 2025-09-19T08:51:49.936Z: WS metrics error: systeminformation.sensors is not a function
+[ERROR] 2025-09-19T08:51:50.936Z: WS metrics error: systeminformation.sensors is not a function
+[ERROR] 2025-09-19T08:51:51.937Z: WS metrics error: systeminformation.sensors is not a function
+[ERROR] 2025-09-19T08:51:52.937Z: WS metrics error: systeminformation.sensors is not a function
+[ERROR] 2025-09-19T08:51:53.937Z: WS metrics error: systeminformation.sensors is not a function
+[ERROR] 2025-09-19T08:51:54.937Z: WS metrics error: systeminformation.sensors is not a function
+[ERROR] 2025-09-19T08:51:55.936Z: WS metrics error: systeminformation.sensors is not a function
+[ERROR] 2025-09-19T08:51:56.937Z: WS metrics error: systeminformation.sensors is not a function
+[ERROR] 2025-09-19T08:51:57.938Z: WS metrics error: systeminformation.sensors is not a function
+[ERROR] 2025-09-19T08:51:58.939Z: WS metrics error: systeminformation.sensors is not a function
+[INFO] 2025-09-19T08:51:59.019Z: Client disconnected: 1758271905934f7cuv89
+[INFO] 2025-09-19T08:52:04.098Z: Client connected: 1758271924098v1i2qqs
+[ERROR] 2025-09-19T08:52:04.098Z: WS metrics error: systeminformation.sensors is not a function
+[ERROR] 2025-09-19T08:52:05.099Z: WS metrics error: systeminformation.sensors is not a function
+[ERROR] 2025-09-19T08:52:06.100Z: WS metrics error: systeminformation.sensors is not a function
+[ERROR] 2025-09-19T08:52:07.101Z: WS metrics error: systeminformation.sensors is not a function
+[ERROR] 2025-09-19T08:52:08.102Z: WS metrics error: systeminformation.sensors is not a function
+[ERROR] 2025-09-19T08:52:09.102Z: WS metrics error: systeminformation.sensors is not a function
+[ERROR] 2025-09-19T08:52:10.102Z: WS metrics error: systeminformation.sensors is not a function
+[ERROR] 2025-09-19T08:52:11.103Z: WS metrics error: systeminformation.sensors is not a function
+[ERROR] 2025-09-19T08:52:12.104Z: WS metrics error: systeminformation.sensors is not a function
+[ERROR] 2025-09-19T08:52:13.103Z: WS metrics error: systeminformation.sensors is not a function
+[ERROR] 2025-09-19T08:52:14.104Z: WS metrics error: systeminformation.sensors is not a function
+[ERROR] 2025-09-19T08:52:15.104Z: WS metrics error: systeminformation.sensors is not a function
+[ERROR] 2025-09-19T08:52:16.104Z: WS metrics error: systeminformation.sensors is not a function
+[ERROR] 2025-09-19T08:52:17.103Z: WS metrics error: systeminformation.sensors is not a function
+[ERROR] 2025-09-19T08:52:18.103Z: WS metrics error: systeminformation.sensors is not a function
+[ERROR] 2025-09-19T08:52:19.104Z: WS metrics error: systeminformation.sensors is not a function
+[ERROR] 2025-09-19T08:52:20.104Z: WS metrics error: systeminformation.sensors is not a function
+[ERROR] 2025-09-19T08:52:21.104Z: WS metrics error: systeminformation.sensors is not a function
+[ERROR] 2025-09-19T08:52:22.104Z: WS metrics error: systeminformation.sensors is not a function
+[ERROR] 2025-09-19T08:52:23.104Z: WS metrics error: systeminformation.sensors is not a function
+[ERROR] 2025-09-19T08:52:24.105Z: WS metrics error: systeminformation.sensors is not a function
+[ERROR] 2025-09-19T08:52:25.105Z: WS metrics error: systeminformation.sensors is not a function
+[ERROR] 2025-09-19T08:52:26.105Z: WS metrics error: systeminformation.sensors is not a function
+[ERROR] 2025-09-19T08:52:27.106Z: WS metrics error: systeminformation.sensors is not a function
+[ERROR] 2025-09-19T08:52:28.108Z: WS metrics error: systeminformation.sensors is not a function
+[ERROR] 2025-09-19T08:52:29.108Z: WS metrics error: systeminformation.sensors is not a function
+[ERROR] 2025-09-19T08:52:30.109Z: WS metrics error: systeminformation.sensors is not a function
+[ERROR] 2025-09-19T08:52:31.109Z: WS metrics error: systeminformation.sensors is not a function
+[ERROR] 2025-09-19T08:52:32.110Z: WS metrics error: systeminformation.sensors is not a function
+[ERROR] 2025-09-19T08:52:33.111Z: WS metrics error: systeminformation.sensors is not a function
+[ERROR] 2025-09-19T08:52:34.111Z: WS metrics error: systeminformation.sensors is not a function
+[ERROR] 2025-09-19T08:52:35.111Z: WS metrics error: systeminformation.sensors is not a function
+[ERROR] 2025-09-19T08:52:36.112Z: WS metrics error: systeminformation.sensors is not a function
+[ERROR] 2025-09-19T08:52:37.111Z: WS metrics error: systeminformation.sensors is not a function
+[ERROR] 2025-09-19T08:52:38.112Z: WS metrics error: systeminformation.sensors is not a function
+[ERROR] 2025-09-19T08:52:39.112Z: WS metrics error: systeminformation.sensors is not a function
+[ERROR] 2025-09-19T08:52:40.112Z: WS metrics error: systeminformation.sensors is not a function
+[INFO] 2025-09-19T08:52:40.644Z: Shutting down...
+[INFO] 2025-09-19T08:52:40.648Z: DB closed.
+[INFO] 2025-09-19T08:58:22.782Z: Server running on port 3000
+[INFO] 2025-09-19T08:58:22.783Z: Environment: development
+[INFO] 2025-09-19T08:58:22.783Z: Connected to SQLite.
+[INFO] 2025-09-19T08:58:24.641Z: Client connected: 1758272304641jiunvrg
+[ERROR] 2025-09-19T08:58:25.513Z: WS metrics error: Cannot read properties of undefined (reading 'toFixed')
+[INFO] 2025-09-19T08:58:25.986Z: Client disconnected: 1758272304641jiunvrg
+[INFO] 2025-09-19T08:58:25.989Z: Client connected: 1758272305989ke624yi
+[ERROR] 2025-09-19T08:58:26.865Z: WS metrics error: Cannot read properties of undefined (reading 'toFixed')
+[ERROR] 2025-09-19T08:58:26.880Z: WS metrics error: Cannot read properties of undefined (reading 'toFixed')
+[INFO] 2025-09-19T08:58:27.420Z: Client disconnected: 1758272305989ke624yi
+[INFO] 2025-09-19T08:58:27.425Z: Client connected: 1758272307425bpi0uuc
+[ERROR] 2025-09-19T08:58:27.863Z: WS metrics error: Cannot read properties of undefined (reading 'toFixed')
+[ERROR] 2025-09-19T08:58:28.343Z: WS metrics error: Cannot read properties of undefined (reading 'toFixed')
+[INFO] 2025-09-19T08:58:29.025Z: Client disconnected: 1758272307425bpi0uuc
+[INFO] 2025-09-19T08:58:29.029Z: Client connected: 1758272309029agicsmo
+[ERROR] 2025-09-19T08:58:29.283Z: WS metrics error: Cannot read properties of undefined (reading 'toFixed')
+[INFO] 2025-09-19T08:58:29.819Z: Shutting down...
+[ERROR] 2025-09-19T08:58:29.823Z: WS metrics error: Cannot read properties of undefined (reading 'toFixed')
+[INFO] 2025-09-19T08:58:29.825Z: DB closed.
+[INFO] 2025-09-19T08:59:33.154Z: Server running on port 3000
+[INFO] 2025-09-19T08:59:33.156Z: Environment: development
+[INFO] 2025-09-19T08:59:33.156Z: Connected to SQLite.
+[INFO] 2025-09-19T08:59:33.609Z: Client connected: 175827237360951wb1n0
+[ERROR] 2025-09-19T08:59:34.339Z: WS metrics error: Cannot read properties of undefined (reading 'toFixed')
+[INFO] 2025-09-19T08:59:34.942Z: Client disconnected: 175827237360951wb1n0
+[INFO] 2025-09-19T08:59:34.946Z: Client connected: 1758272374946it8ogjo
+[ERROR] 2025-09-19T08:59:35.941Z: WS metrics error: Cannot read properties of undefined (reading 'toFixed')
+[ERROR] 2025-09-19T08:59:36.089Z: WS metrics error: Cannot read properties of undefined (reading 'toFixed')
+[ERROR] 2025-09-19T08:59:36.783Z: WS metrics error: Cannot read properties of undefined (reading 'toFixed')
+[INFO] 2025-09-19T08:59:36.886Z: Client disconnected: 1758272374946it8ogjo
+[INFO] 2025-09-19T08:59:36.891Z: Client connected: 1758272376891c0c3ylv
+[ERROR] 2025-09-19T08:59:37.572Z: WS metrics error: Cannot read properties of undefined (reading 'toFixed')
+[INFO] 2025-09-19T08:59:37.752Z: Client disconnected: 1758272376891c0c3ylv
+[INFO] 2025-09-19T08:59:37.761Z: Client connected: 1758272377761my9ke39
+[INFO] 2025-09-19T08:59:38.493Z: Client disconnected: 1758272377761my9ke39
+[INFO] 2025-09-19T08:59:38.498Z: Client connected: 1758272378498ek9xeoi
+[ERROR] 2025-09-19T08:59:38.639Z: WS metrics error: Cannot read properties of undefined (reading 'toFixed')
+[ERROR] 2025-09-19T08:59:39.211Z: WS metrics error: Cannot read properties of undefined (reading 'toFixed')
+[ERROR] 2025-09-19T08:59:40.203Z: WS metrics error: Cannot read properties of undefined (reading 'toFixed')
+[INFO] 2025-09-19T08:59:40.210Z: Client disconnected: 1758272378498ek9xeoi
+[INFO] 2025-09-19T08:59:40.215Z: Client connected: 1758272380215k6pylsv
+[ERROR] 2025-09-19T08:59:40.967Z: WS metrics error: Cannot read properties of undefined (reading 'toFixed')
+[INFO] 2025-09-19T08:59:41.063Z: Client disconnected: 1758272380215k6pylsv
+[INFO] 2025-09-19T08:59:41.067Z: Client connected: 1758272381067ub77njq
+[ERROR] 2025-09-19T08:59:41.769Z: WS metrics error: Cannot read properties of undefined (reading 'toFixed')
+[INFO] 2025-09-19T08:59:42.040Z: Client disconnected: 1758272381067ub77njq
+[INFO] 2025-09-19T08:59:42.046Z: Client connected: 1758272382046114t7yd
+[ERROR] 2025-09-19T08:59:42.718Z: WS metrics error: Cannot read properties of undefined (reading 'toFixed')
+[INFO] 2025-09-19T08:59:43.009Z: Client disconnected: 1758272382046114t7yd
+[INFO] 2025-09-19T08:59:43.014Z: Client connected: 1758272383014aujlki0
+[ERROR] 2025-09-19T08:59:43.633Z: WS metrics error: Cannot read properties of undefined (reading 'toFixed')
+[INFO] 2025-09-19T08:59:44.085Z: Client disconnected: 1758272383014aujlki0
+[INFO] 2025-09-19T08:59:44.092Z: Client connected: 17582723840923o4t2ap
+[ERROR] 2025-09-19T08:59:45.029Z: WS metrics error: Cannot read properties of undefined (reading 'toFixed')
+[ERROR] 2025-09-19T08:59:45.057Z: WS metrics error: Cannot read properties of undefined (reading 'toFixed')
+[INFO] 2025-09-19T08:59:45.146Z: Client connected: 1758272385146r8inhnn
+[INFO] 2025-09-19T08:59:45.280Z: Client disconnected: 17582723840923o4t2ap
+[ERROR] 2025-09-19T08:59:46.102Z: WS metrics error: Cannot read properties of undefined (reading 'toFixed')
+[ERROR] 2025-09-19T08:59:46.117Z: WS metrics error: Cannot read properties of undefined (reading 'toFixed')
+[INFO] 2025-09-19T08:59:46.328Z: Client disconnected: 1758272385146r8inhnn
+[INFO] 2025-09-19T08:59:46.333Z: Client connected: 1758272386333usdgycw
+[ERROR] 2025-09-19T08:59:47.265Z: WS metrics error: Cannot read properties of undefined (reading 'toFixed')
+[ERROR] 2025-09-19T08:59:47.281Z: WS metrics error: Cannot read properties of undefined (reading 'toFixed')
+[INFO] 2025-09-19T08:59:47.455Z: Client disconnected: 1758272386333usdgycw
+[INFO] 2025-09-19T08:59:47.461Z: Client connected: 1758272387461p0qlrho
+[ERROR] 2025-09-19T08:59:48.287Z: WS metrics error: Cannot read properties of undefined (reading 'toFixed')
+[ERROR] 2025-09-19T08:59:48.313Z: WS metrics error: Cannot read properties of undefined (reading 'toFixed')
+[INFO] 2025-09-19T08:59:48.687Z: Client disconnected: 1758272387461p0qlrho
+[INFO] 2025-09-19T08:59:48.695Z: Client connected: 1758272388695k2hdlf4
+[ERROR] 2025-09-19T08:59:49.474Z: WS metrics error: Cannot read properties of undefined (reading 'toFixed')
+[ERROR] 2025-09-19T08:59:49.507Z: WS metrics error: Cannot read properties of undefined (reading 'toFixed')
+[INFO] 2025-09-19T08:59:49.924Z: Client disconnected: 1758272388695k2hdlf4
+[INFO] 2025-09-19T08:59:49.929Z: Client connected: 17582723899295c8ow8b
+[ERROR] 2025-09-19T08:59:50.777Z: WS metrics error: Cannot read properties of undefined (reading 'toFixed')
+[ERROR] 2025-09-19T08:59:50.810Z: WS metrics error: Cannot read properties of undefined (reading 'toFixed')
+[INFO] 2025-09-19T08:59:51.259Z: Client disconnected: 17582723899295c8ow8b
+[INFO] 2025-09-19T08:59:51.265Z: Client connected: 17582723912655h7oms1
+[ERROR] 2025-09-19T08:59:51.480Z: WS metrics error: Cannot read properties of undefined (reading 'toFixed')
+[ERROR] 2025-09-19T08:59:51.985Z: WS metrics error: Cannot read properties of undefined (reading 'toFixed')
+[INFO] 2025-09-19T08:59:52.590Z: Client disconnected: 17582723912655h7oms1
+[INFO] 2025-09-19T08:59:52.594Z: Client connected: 17582723925945q8208e
+[ERROR] 2025-09-19T08:59:53.304Z: WS metrics error: Cannot read properties of undefined (reading 'toFixed')
+[ERROR] 2025-09-19T08:59:53.337Z: WS metrics error: Cannot read properties of undefined (reading 'toFixed')
+[INFO] 2025-09-19T08:59:53.984Z: Client disconnected: 17582723925945q8208e
+[INFO] 2025-09-19T08:59:53.988Z: Client connected: 1758272393988u3h5a52
+[ERROR] 2025-09-19T08:59:54.241Z: WS metrics error: Cannot read properties of undefined (reading 'toFixed')
+[ERROR] 2025-09-19T08:59:54.715Z: WS metrics error: Cannot read properties of undefined (reading 'toFixed')
+[INFO] 2025-09-19T08:59:55.418Z: Client disconnected: 1758272393988u3h5a52
+[INFO] 2025-09-19T08:59:55.422Z: Client connected: 1758272395422tm8r2i2
+[ERROR] 2025-09-19T08:59:56.357Z: WS metrics error: Cannot read properties of undefined (reading 'toFixed')
+[ERROR] 2025-09-19T08:59:56.378Z: WS metrics error: Cannot read properties of undefined (reading 'toFixed')
+[INFO] 2025-09-19T08:59:56.908Z: Client disconnected: 1758272395422tm8r2i2
+[INFO] 2025-09-19T08:59:56.913Z: Client connected: 1758272396913piipoxr
+[ERROR] 2025-09-19T08:59:57.180Z: WS metrics error: Cannot read properties of undefined (reading 'toFixed')
+[ERROR] 2025-09-19T08:59:57.761Z: WS metrics error: Cannot read properties of undefined (reading 'toFixed')
+[INFO] 2025-09-19T08:59:58.465Z: Client disconnected: 1758272396913piipoxr
+[INFO] 2025-09-19T08:59:58.470Z: Client connected: 1758272398470xhtw01o
+[ERROR] 2025-09-19T08:59:58.664Z: WS metrics error: Cannot read properties of undefined (reading 'toFixed')
+[ERROR] 2025-09-19T08:59:59.378Z: WS metrics error: Cannot read properties of undefined (reading 'toFixed')
+[INFO] 2025-09-19T09:00:00.080Z: Client disconnected: 1758272398470xhtw01o
+[INFO] 2025-09-19T09:00:00.085Z: Client connected: 175827240008529ykmdu
+[ERROR] 2025-09-19T09:00:00.245Z: WS metrics error: Cannot read properties of undefined (reading 'toFixed')
+[ERROR] 2025-09-19T09:00:00.996Z: WS metrics error: Cannot read properties of undefined (reading 'toFixed')
+[INFO] 2025-09-19T09:00:01.737Z: Client disconnected: 175827240008529ykmdu
+[INFO] 2025-09-19T09:00:01.743Z: Client connected: 1758272401743c8gnadh
+[ERROR] 2025-09-19T09:00:01.932Z: WS metrics error: Cannot read properties of undefined (reading 'toFixed')
+[ERROR] 2025-09-19T09:00:02.449Z: WS metrics error: Cannot read properties of undefined (reading 'toFixed')
+[INFO] 2025-09-19T09:00:03.597Z: Client disconnected: 1758272401743c8gnadh
+[INFO] 2025-09-19T09:00:03.601Z: Client connected: 1758272403601i3alhu8
+[ERROR] 2025-09-19T09:00:03.744Z: WS metrics error: Cannot read properties of undefined (reading 'toFixed')
+[ERROR] 2025-09-19T09:00:04.464Z: WS metrics error: Cannot read properties of undefined (reading 'toFixed')
+[ERROR] 2025-09-19T09:00:05.197Z: WS metrics error: Cannot read properties of undefined (reading 'toFixed')
+[INFO] 2025-09-19T09:00:05.566Z: Client disconnected: 1758272403601i3alhu8
+[INFO] 2025-09-19T09:00:05.570Z: Client connected: 1758272405570zci8rdl
+[ERROR] 2025-09-19T09:00:06.228Z: WS metrics error: Cannot read properties of undefined (reading 'toFixed')
+[ERROR] 2025-09-19T09:00:07.222Z: WS metrics error: Cannot read properties of undefined (reading 'toFixed')
+[INFO] 2025-09-19T09:00:07.626Z: Client connected: 17582724076266uzgjz2
+[INFO] 2025-09-19T09:00:07.713Z: Client disconnected: 1758272405570zci8rdl
+[ERROR] 2025-09-19T09:00:08.500Z: WS metrics error: Cannot read properties of undefined (reading 'toFixed')
+[ERROR] 2025-09-19T09:00:08.528Z: WS metrics error: Cannot read properties of undefined (reading 'toFixed')
+[ERROR] 2025-09-19T09:00:09.215Z: WS metrics error: Cannot read properties of undefined (reading 'toFixed')
+[INFO] 2025-09-19T09:00:09.688Z: Client disconnected: 17582724076266uzgjz2
+[INFO] 2025-09-19T09:00:09.698Z: Client connected: 1758272409698mcucxps
+[ERROR] 2025-09-19T09:00:10.569Z: WS metrics error: Cannot read properties of undefined (reading 'toFixed')
+[ERROR] 2025-09-19T09:00:10.598Z: WS metrics error: Cannot read properties of undefined (reading 'toFixed')
+[ERROR] 2025-09-19T09:00:11.545Z: WS metrics error: Cannot read properties of undefined (reading 'toFixed')
+[INFO] 2025-09-19T09:00:11.816Z: Client connected: 1758272411816556hdzq
+[INFO] 2025-09-19T09:00:11.917Z: Client disconnected: 1758272409698mcucxps
+[ERROR] 2025-09-19T09:00:12.999Z: WS metrics error: Cannot read properties of undefined (reading 'toFixed')
+[ERROR] 2025-09-19T09:00:13.082Z: WS metrics error: Cannot read properties of undefined (reading 'toFixed')
+[ERROR] 2025-09-19T09:00:13.636Z: WS metrics error: Cannot read properties of undefined (reading 'toFixed')
+[INFO] 2025-09-19T09:00:13.924Z: Client disconnected: 1758272411816556hdzq
+[INFO] 2025-09-19T09:00:13.928Z: Client connected: 17582724139285mwv9j4
+[ERROR] 2025-09-19T09:00:14.807Z: WS metrics error: Cannot read properties of undefined (reading 'toFixed')
+[ERROR] 2025-09-19T09:00:14.821Z: WS metrics error: Cannot read properties of undefined (reading 'toFixed')
+[ERROR] 2025-09-19T09:00:15.517Z: WS metrics error: Cannot read properties of undefined (reading 'toFixed')
+[INFO] 2025-09-19T09:00:16.172Z: Client disconnected: 17582724139285mwv9j4
+[INFO] 2025-09-19T09:00:16.177Z: Client connected: 17582724161776wmg491
+[ERROR] 2025-09-19T09:00:16.473Z: WS metrics error: Cannot read properties of undefined (reading 'toFixed')
+[ERROR] 2025-09-19T09:00:17.054Z: WS metrics error: Cannot read properties of undefined (reading 'toFixed')
+[ERROR] 2025-09-19T09:00:17.734Z: WS metrics error: Cannot read properties of undefined (reading 'toFixed')
+[INFO] 2025-09-19T09:00:18.272Z: Client disconnected: 17582724161776wmg491
+[INFO] 2025-09-19T09:00:18.277Z: Client connected: 1758272418277huhh30u
+[ERROR] 2025-09-19T09:00:19.189Z: WS metrics error: Cannot read properties of undefined (reading 'toFixed')
+[ERROR] 2025-09-19T09:00:19.218Z: WS metrics error: Cannot read properties of undefined (reading 'toFixed')
+[ERROR] 2025-09-19T09:00:20.040Z: WS metrics error: Cannot read properties of undefined (reading 'toFixed')
+[INFO] 2025-09-19T09:00:20.598Z: Client disconnected: 1758272418277huhh30u
+[INFO] 2025-09-19T09:00:20.603Z: Client connected: 1758272420603nmyandh
+[ERROR] 2025-09-19T09:00:21.453Z: WS metrics error: Cannot read properties of undefined (reading 'toFixed')
+[ERROR] 2025-09-19T09:00:21.477Z: WS metrics error: Cannot read properties of undefined (reading 'toFixed')
+[ERROR] 2025-09-19T09:00:22.259Z: WS metrics error: Cannot read properties of undefined (reading 'toFixed')
+[INFO] 2025-09-19T09:00:23.040Z: Client disconnected: 1758272420603nmyandh
+[INFO] 2025-09-19T09:00:23.044Z: Client connected: 175827242304433rvr34
+[ERROR] 2025-09-19T09:00:23.219Z: WS metrics error: Cannot read properties of undefined (reading 'toFixed')
+[ERROR] 2025-09-19T09:00:23.765Z: WS metrics error: Cannot read properties of undefined (reading 'toFixed')
+[ERROR] 2025-09-19T09:00:24.767Z: WS metrics error: Cannot read properties of undefined (reading 'toFixed')
+[INFO] 2025-09-19T09:00:25.465Z: Client disconnected: 175827242304433rvr34
+[INFO] 2025-09-19T09:00:25.470Z: Client connected: 17582724254705v6c4ei
+[ERROR] 2025-09-19T09:00:25.617Z: WS metrics error: Cannot read properties of undefined (reading 'toFixed')
+[ERROR] 2025-09-19T09:00:26.186Z: WS metrics error: Cannot read properties of undefined (reading 'toFixed')
+[ERROR] 2025-09-19T09:00:27.093Z: WS metrics error: Cannot read properties of undefined (reading 'toFixed')
+[INFO] 2025-09-19T09:00:27.820Z: Client disconnected: 17582724254705v6c4ei
+[INFO] 2025-09-19T09:00:27.837Z: Client connected: 1758272427837uh5q4hg
+[ERROR] 2025-09-19T09:00:28.118Z: WS metrics error: Cannot read properties of undefined (reading 'toFixed')
+[ERROR] 2025-09-19T09:00:28.531Z: WS metrics error: Cannot read properties of undefined (reading 'toFixed')
+[ERROR] 2025-09-19T09:00:29.493Z: WS metrics error: Cannot read properties of undefined (reading 'toFixed')
+[INFO] 2025-09-19T09:00:30.316Z: Client disconnected: 1758272427837uh5q4hg
+[INFO] 2025-09-19T09:00:30.322Z: Client connected: 1758272430322m050oh8
+[ERROR] 2025-09-19T09:00:30.544Z: WS metrics error: Cannot read properties of undefined (reading 'toFixed')
+[ERROR] 2025-09-19T09:00:31.101Z: WS metrics error: Cannot read properties of undefined (reading 'toFixed')
+[ERROR] 2025-09-19T09:00:32.004Z: WS metrics error: Cannot read properties of undefined (reading 'toFixed')
+[INFO] 2025-09-19T09:00:32.852Z: Client disconnected: 1758272430322m050oh8
+[INFO] 2025-09-19T09:00:32.857Z: Client connected: 1758272432857cklsdrb
+[ERROR] 2025-09-19T09:00:33.015Z: WS metrics error: Cannot read properties of undefined (reading 'toFixed')
+[ERROR] 2025-09-19T09:00:33.681Z: WS metrics error: Cannot read properties of undefined (reading 'toFixed')
+[ERROR] 2025-09-19T09:00:34.510Z: WS metrics error: Cannot read properties of undefined (reading 'toFixed')
+[INFO] 2025-09-19T09:00:35.141Z: Client disconnected: 1758272432857cklsdrb
+[INFO] 2025-09-19T09:00:35.146Z: Client connected: 1758272435146dps5jbn
+[ERROR] 2025-09-19T09:00:35.793Z: WS metrics error: Cannot read properties of undefined (reading 'toFixed')
+[ERROR] 2025-09-19T09:00:35.811Z: WS metrics error: Cannot read properties of undefined (reading 'toFixed')
+[ERROR] 2025-09-19T09:00:36.822Z: WS metrics error: Cannot read properties of undefined (reading 'toFixed')
+[INFO] 2025-09-19T09:00:37.474Z: Client disconnected: 1758272435146dps5jbn
+[INFO] 2025-09-19T09:00:37.479Z: Client connected: 1758272437479gb4kgzo
+[ERROR] 2025-09-19T09:00:38.112Z: WS metrics error: Cannot read properties of undefined (reading 'toFixed')
+[ERROR] 2025-09-19T09:00:38.119Z: WS metrics error: Cannot read properties of undefined (reading 'toFixed')
+[ERROR] 2025-09-19T09:00:39.322Z: WS metrics error: Cannot read properties of undefined (reading 'toFixed')
+[INFO] 2025-09-19T09:00:39.866Z: Client disconnected: 1758272437479gb4kgzo
+[INFO] 2025-09-19T09:00:39.871Z: Client connected: 1758272439871qvz0f3t
+[ERROR] 2025-09-19T09:00:40.129Z: WS metrics error: Cannot read properties of undefined (reading 'toFixed')
+[ERROR] 2025-09-19T09:00:40.623Z: WS metrics error: Cannot read properties of undefined (reading 'toFixed')
+[ERROR] 2025-09-19T09:00:41.457Z: WS metrics error: Cannot read properties of undefined (reading 'toFixed')
+[INFO] 2025-09-19T09:00:42.414Z: Client disconnected: 1758272439871qvz0f3t
+[INFO] 2025-09-19T09:00:42.418Z: Client connected: 1758272442418trwqyx0
+[ERROR] 2025-09-19T09:00:42.544Z: WS metrics error: Cannot read properties of undefined (reading 'toFixed')
+[ERROR] 2025-09-19T09:00:43.239Z: WS metrics error: Cannot read properties of undefined (reading 'toFixed')
+[ERROR] 2025-09-19T09:00:44.058Z: WS metrics error: Cannot read properties of undefined (reading 'toFixed')
+[ERROR] 2025-09-19T09:00:45.017Z: WS metrics error: Cannot read properties of undefined (reading 'toFixed')
+[INFO] 2025-09-19T09:00:45.176Z: Client disconnected: 1758272442418trwqyx0
+[INFO] 2025-09-19T09:00:45.182Z: Client connected: 175827244518280lcj40
+[ERROR] 2025-09-19T09:00:45.870Z: WS metrics error: Cannot read properties of undefined (reading 'toFixed')
+[ERROR] 2025-09-19T09:00:46.769Z: WS metrics error: Cannot read properties of undefined (reading 'toFixed')
+[ERROR] 2025-09-19T09:00:47.776Z: WS metrics error: Cannot read properties of undefined (reading 'toFixed')
+[INFO] 2025-09-19T09:00:47.807Z: Client disconnected: 175827244518280lcj40
+[INFO] 2025-09-19T09:00:47.812Z: Client connected: 1758272447812djpuqqn
+[ERROR] 2025-09-19T09:00:48.451Z: WS metrics error: Cannot read properties of undefined (reading 'toFixed')
+[ERROR] 2025-09-19T09:00:49.449Z: WS metrics error: Cannot read properties of undefined (reading 'toFixed')
+[ERROR] 2025-09-19T09:00:50.344Z: WS metrics error: Cannot read properties of undefined (reading 'toFixed')
+[INFO] 2025-09-19T09:00:50.571Z: Client disconnected: 1758272447812djpuqqn
+[INFO] 2025-09-19T09:00:50.577Z: Client connected: 1758272450577kbfmnlq
+[ERROR] 2025-09-19T09:00:51.153Z: WS metrics error: Cannot read properties of undefined (reading 'toFixed')
+[ERROR] 2025-09-19T09:00:52.197Z: WS metrics error: Cannot read properties of undefined (reading 'toFixed')
+[ERROR] 2025-09-19T09:00:53.148Z: WS metrics error: Cannot read properties of undefined (reading 'toFixed')
+[INFO] 2025-09-19T09:00:53.439Z: Client disconnected: 1758272450577kbfmnlq
+[INFO] 2025-09-19T09:00:53.444Z: Client connected: 175827245344446s9i7g
+[ERROR] 2025-09-19T09:00:54.073Z: WS metrics error: Cannot read properties of undefined (reading 'toFixed')
+[ERROR] 2025-09-19T09:00:55.080Z: WS metrics error: Cannot read properties of undefined (reading 'toFixed')
+[ERROR] 2025-09-19T09:00:56.112Z: WS metrics error: Cannot read properties of undefined (reading 'toFixed')
+[INFO] 2025-09-19T09:00:56.354Z: Client disconnected: 175827245344446s9i7g
+[INFO] 2025-09-19T09:00:56.361Z: Client connected: 17582724563614f83tnq
+[ERROR] 2025-09-19T09:00:56.932Z: WS metrics error: Cannot read properties of undefined (reading 'toFixed')
+[ERROR] 2025-09-19T09:00:57.925Z: WS metrics error: Cannot read properties of undefined (reading 'toFixed')
+[ERROR] 2025-09-19T09:00:59.028Z: WS metrics error: Cannot read properties of undefined (reading 'toFixed')
+[INFO] 2025-09-19T09:00:59.033Z: Client disconnected: 17582724563614f83tnq
+[INFO] 2025-09-19T09:00:59.039Z: Client connected: 1758272459039xopnhgk
+[ERROR] 2025-09-19T09:00:59.706Z: WS metrics error: Cannot read properties of undefined (reading 'toFixed')
+[ERROR] 2025-09-19T09:01:00.656Z: WS metrics error: Cannot read properties of undefined (reading 'toFixed')
+[ERROR] 2025-09-19T09:01:01.626Z: WS metrics error: Cannot read properties of undefined (reading 'toFixed')
+[INFO] 2025-09-19T09:01:01.761Z: Client disconnected: 1758272459039xopnhgk
+[INFO] 2025-09-19T09:01:01.769Z: Client connected: 1758272461769ypbapes
+[ERROR] 2025-09-19T09:01:02.433Z: WS metrics error: Cannot read properties of undefined (reading 'toFixed')
+[ERROR] 2025-09-19T09:01:03.434Z: WS metrics error: Cannot read properties of undefined (reading 'toFixed')
+[ERROR] 2025-09-19T09:01:04.413Z: WS metrics error: Cannot read properties of undefined (reading 'toFixed')
+[INFO] 2025-09-19T09:01:04.544Z: Client disconnected: 1758272461769ypbapes
+[INFO] 2025-09-19T09:01:04.548Z: Client connected: 17582724645480wlv5c3
+[ERROR] 2025-09-19T09:01:05.145Z: WS metrics error: Cannot read properties of undefined (reading 'toFixed')
+[ERROR] 2025-09-19T09:01:06.126Z: WS metrics error: Cannot read properties of undefined (reading 'toFixed')
+[ERROR] 2025-09-19T09:01:07.179Z: WS metrics error: Cannot read properties of undefined (reading 'toFixed')
+[INFO] 2025-09-19T09:01:07.342Z: Client disconnected: 17582724645480wlv5c3
+[INFO] 2025-09-19T09:01:07.347Z: Client connected: 1758272467347wauz0cs
+[ERROR] 2025-09-19T09:01:07.859Z: WS metrics error: Cannot read properties of undefined (reading 'toFixed')
+[ERROR] 2025-09-19T09:01:08.978Z: WS metrics error: Cannot read properties of undefined (reading 'toFixed')
+[ERROR] 2025-09-19T09:01:09.985Z: WS metrics error: Cannot read properties of undefined (reading 'toFixed')
+[INFO] 2025-09-19T09:01:10.189Z: Client disconnected: 1758272467347wauz0cs
+[INFO] 2025-09-19T09:01:10.195Z: Client connected: 1758272470195u52ww8t
+[ERROR] 2025-09-19T09:01:10.847Z: WS metrics error: Cannot read properties of undefined (reading 'toFixed')
+[ERROR] 2025-09-19T09:01:11.721Z: WS metrics error: Cannot read properties of undefined (reading 'toFixed')
+[ERROR] 2025-09-19T09:01:12.784Z: WS metrics error: Cannot read properties of undefined (reading 'toFixed')
+[INFO] 2025-09-19T09:01:13.051Z: Client disconnected: 1758272470195u52ww8t
+[INFO] 2025-09-19T09:01:13.057Z: Client connected: 1758272473057csqvoid
+[ERROR] 2025-09-19T09:01:13.684Z: WS metrics error: Cannot read properties of undefined (reading 'toFixed')
+[ERROR] 2025-09-19T09:01:14.780Z: WS metrics error: Cannot read properties of undefined (reading 'toFixed')
+[ERROR] 2025-09-19T09:01:15.897Z: WS metrics error: Cannot read properties of undefined (reading 'toFixed')
+[INFO] 2025-09-19T09:01:16.007Z: Client disconnected: 1758272473057csqvoid
+[INFO] 2025-09-19T09:01:16.012Z: Client connected: 17582724760123a0n03n
+[ERROR] 2025-09-19T09:01:16.567Z: WS metrics error: Cannot read properties of undefined (reading 'toFixed')
+[ERROR] 2025-09-19T09:01:17.765Z: WS metrics error: Cannot read properties of undefined (reading 'toFixed')
+[INFO] 2025-09-19T09:01:18.885Z: Client disconnected: 17582724760123a0n03n
+[INFO] 2025-09-19T09:01:18.890Z: Client connected: 1758272478890759r9nt
+[ERROR] 2025-09-19T09:01:19.042Z: WS metrics error: Cannot read properties of undefined (reading 'toFixed')
+[ERROR] 2025-09-19T09:01:19.810Z: WS metrics error: Cannot read properties of undefined (reading 'toFixed')
+[ERROR] 2025-09-19T09:01:20.719Z: WS metrics error: Cannot read properties of undefined (reading 'toFixed')
+[INFO] 2025-09-19T09:01:21.786Z: Client disconnected: 1758272478890759r9nt
+[INFO] 2025-09-19T09:01:21.791Z: Client connected: 1758272481791cguj6oh
+[ERROR] 2025-09-19T09:01:21.959Z: WS metrics error: Cannot read properties of undefined (reading 'toFixed')
+[ERROR] 2025-09-19T09:01:22.778Z: WS metrics error: Cannot read properties of undefined (reading 'toFixed')
+[ERROR] 2025-09-19T09:01:23.568Z: WS metrics error: Cannot read properties of undefined (reading 'toFixed')
+[ERROR] 2025-09-19T09:01:24.546Z: WS metrics error: Cannot read properties of undefined (reading 'toFixed')
+[INFO] 2025-09-19T09:01:24.725Z: Client disconnected: 1758272481791cguj6oh
+[INFO] 2025-09-19T09:01:24.730Z: Client connected: 1758272484730u8o7mru
+[INFO] 2025-09-19T09:01:25.509Z: Server running on port 3000
+[INFO] 2025-09-19T09:01:25.510Z: Environment: development
+[INFO] 2025-09-19T09:01:25.511Z: Connected to SQLite.
+[INFO] 2025-09-19T09:01:27.620Z: Client connected: 17582724876205z32dk4
+[INFO] 2025-09-19T09:01:33.979Z: Client disconnected: 17582724876205z32dk4
+[INFO] 2025-09-19T09:01:33.981Z: Client connected: 1758272493981uvdkg3y
+[INFO] 2025-09-19T09:01:36.898Z: Client disconnected: 1758272493981uvdkg3y
+[INFO] 2025-09-19T09:01:36.905Z: Client connected: 1758272496905kr3nnuw
+[INFO] 2025-09-19T09:01:39.741Z: Client disconnected: 1758272496905kr3nnuw
+[INFO] 2025-09-19T09:01:39.746Z: Client connected: 1758272499746bogofqo
+[INFO] 2025-09-19T09:01:42.730Z: Client disconnected: 1758272499746bogofqo
+[INFO] 2025-09-19T09:01:42.735Z: Client connected: 17582725027359y2hfwt
+[INFO] 2025-09-19T09:01:45.862Z: Client connected: 1758272505862rv6re1z
+[INFO] 2025-09-19T09:01:45.998Z: Client disconnected: 17582725027359y2hfwt
+[INFO] 2025-09-19T09:01:48.625Z: Client disconnected: 1758272505862rv6re1z
+[INFO] 2025-09-19T09:01:48.628Z: Client connected: 1758272508628yv3csok
+[INFO] 2025-09-19T09:01:51.512Z: Client disconnected: 1758272508628yv3csok
+[INFO] 2025-09-19T09:01:51.517Z: Client connected: 1758272511517mn74gcf
+[INFO] 2025-09-19T09:01:54.375Z: Client disconnected: 1758272511517mn74gcf
+[INFO] 2025-09-19T09:01:54.380Z: Client connected: 1758272514380ywojuke
+[INFO] 2025-09-19T09:01:57.277Z: Client disconnected: 1758272514380ywojuke
+[INFO] 2025-09-19T09:01:57.283Z: Client connected: 1758272517283zfw6tv8
+[INFO] 2025-09-19T09:02:00.224Z: Client disconnected: 1758272517283zfw6tv8
+[INFO] 2025-09-19T09:02:00.229Z: Client connected: 1758272520229jl7uyby
+[INFO] 2025-09-19T09:02:03.116Z: Client disconnected: 1758272520229jl7uyby
+[INFO] 2025-09-19T09:02:03.121Z: Client connected: 1758272523121wxrkqf4
+[INFO] 2025-09-19T09:02:06.090Z: Client disconnected: 1758272523121wxrkqf4
+[INFO] 2025-09-19T09:02:06.096Z: Client connected: 1758272526096i4x7p0f
+[INFO] 2025-09-19T09:02:09.036Z: Client disconnected: 1758272526096i4x7p0f
+[INFO] 2025-09-19T09:02:09.041Z: Client connected: 17582725290416q1vg9p
+[INFO] 2025-09-19T09:02:12.164Z: Client connected: 17582725321643vmiisa
+[INFO] 2025-09-19T09:02:12.278Z: Client disconnected: 17582725290416q1vg9p
+[INFO] 2025-09-19T09:02:15.022Z: Client disconnected: 17582725321643vmiisa
+[INFO] 2025-09-19T09:02:15.027Z: Client connected: 17582725350271vzhe7r
+[INFO] 2025-09-19T09:02:17.940Z: Client disconnected: 17582725350271vzhe7r
+[INFO] 2025-09-19T09:02:17.945Z: Client connected: 17582725379458cwwmyy
+[INFO] 2025-09-19T09:02:20.932Z: Client disconnected: 17582725379458cwwmyy
+[INFO] 2025-09-19T09:02:20.938Z: Client connected: 1758272540938v3w395y
+[INFO] 2025-09-19T09:02:23.866Z: Client disconnected: 1758272540938v3w395y
+[INFO] 2025-09-19T09:02:23.871Z: Client connected: 1758272543871opw3ea0
+[INFO] 2025-09-19T09:02:26.772Z: Client disconnected: 1758272543871opw3ea0
+[INFO] 2025-09-19T09:02:26.776Z: Client connected: 1758272546776jksy68g
+[INFO] 2025-09-19T09:02:29.639Z: Client disconnected: 1758272546776jksy68g
+[INFO] 2025-09-19T09:02:29.645Z: Client connected: 1758272549645itww42b
+[INFO] 2025-09-19T09:02:32.508Z: Client disconnected: 1758272549645itww42b
+[INFO] 2025-09-19T09:02:32.513Z: Client connected: 1758272552513dlqqctl
+[INFO] 2025-09-19T09:02:35.504Z: Client disconnected: 1758272552513dlqqctl
+[INFO] 2025-09-19T09:02:35.509Z: Client connected: 1758272555509w2t7fk5
+[INFO] 2025-09-19T09:02:38.426Z: Client disconnected: 1758272555509w2t7fk5
+[INFO] 2025-09-19T09:02:38.432Z: Client connected: 175827255843210ym2lt
+[INFO] 2025-09-19T09:02:41.348Z: Client disconnected: 175827255843210ym2lt
+[INFO] 2025-09-19T09:02:41.354Z: Client connected: 1758272561354vbiu9be
+[INFO] 2025-09-19T09:02:44.215Z: Client disconnected: 1758272561354vbiu9be
+[INFO] 2025-09-19T09:02:44.220Z: Client connected: 1758272564220xq8l15g
+[INFO] 2025-09-19T09:02:47.209Z: Client disconnected: 1758272564220xq8l15g
+[INFO] 2025-09-19T09:02:47.213Z: Client connected: 17582725672133sukp1o
+[INFO] 2025-09-19T09:02:50.353Z: Client disconnected: 17582725672133sukp1o
+[INFO] 2025-09-19T09:02:50.356Z: Client connected: 1758272570356r94pnx8
+[INFO] 2025-09-19T09:02:53.228Z: Client disconnected: 1758272570356r94pnx8
+[INFO] 2025-09-19T09:02:53.232Z: Client connected: 1758272573232shlx33b
+[INFO] 2025-09-19T09:02:56.141Z: Client disconnected: 1758272573232shlx33b
+[INFO] 2025-09-19T09:02:56.147Z: Client connected: 1758272576147sfi0mu8
+[INFO] 2025-09-19T09:02:59.081Z: Client disconnected: 1758272576147sfi0mu8
+[INFO] 2025-09-19T09:02:59.087Z: Client connected: 1758272579087t2jydqw
+[INFO] 2025-09-19T09:03:01.952Z: Client disconnected: 1758272579087t2jydqw
+[INFO] 2025-09-19T09:03:01.957Z: Client connected: 1758272581957rz4bkyp
+[INFO] 2025-09-19T09:03:05.107Z: Client connected: 1758272585107g0ev6oc
+[INFO] 2025-09-19T09:03:05.246Z: Client disconnected: 1758272581957rz4bkyp
+[INFO] 2025-09-19T09:03:07.915Z: Client disconnected: 1758272585107g0ev6oc
+[INFO] 2025-09-19T09:03:07.920Z: Client connected: 1758272587920o059fje
+[INFO] 2025-09-19T09:03:10.870Z: Client disconnected: 1758272587920o059fje
+[INFO] 2025-09-19T09:03:10.875Z: Client connected: 1758272590875t5yydxz
+[INFO] 2025-09-19T09:03:13.735Z: Client disconnected: 1758272590875t5yydxz
+[INFO] 2025-09-19T09:03:13.741Z: Client connected: 1758272593741b5nml90
+[INFO] 2025-09-19T09:03:16.664Z: Client disconnected: 1758272593741b5nml90
+[INFO] 2025-09-19T09:03:16.670Z: Client connected: 1758272596670cggpsoe
+[INFO] 2025-09-19T09:03:19.583Z: Client disconnected: 1758272596670cggpsoe
+[INFO] 2025-09-19T09:03:19.588Z: Client connected: 1758272599588fnjo15i
+[INFO] 2025-09-19T09:03:22.440Z: Client disconnected: 1758272599588fnjo15i
+[INFO] 2025-09-19T09:03:22.444Z: Client connected: 1758272602444vmht6bs
+[INFO] 2025-09-19T09:03:25.571Z: Client connected: 17582726055712wx37ga
+[INFO] 2025-09-19T09:03:25.684Z: Client disconnected: 1758272602444vmht6bs
+[INFO] 2025-09-19T09:03:28.838Z: Client disconnected: 17582726055712wx37ga
+[INFO] 2025-09-19T09:03:28.843Z: Client connected: 1758272608843za3xw63
+[INFO] 2025-09-19T09:03:31.719Z: Client disconnected: 1758272608843za3xw63
+[INFO] 2025-09-19T09:03:31.724Z: Client connected: 1758272611724w0qfjyv
+[INFO] 2025-09-19T09:03:34.855Z: Client connected: 1758272614855k9ecn34
+[INFO] 2025-09-19T09:03:34.997Z: Client disconnected: 1758272611724w0qfjyv
+[INFO] 2025-09-19T09:03:38.080Z: Client connected: 17582726180800rqbf49
+[INFO] 2025-09-19T09:03:38.194Z: Client disconnected: 1758272614855k9ecn34
+[INFO] 2025-09-19T09:03:41.392Z: Client disconnected: 17582726180800rqbf49
+[INFO] 2025-09-19T09:03:41.398Z: Client connected: 17582726213986byq6kg
+[INFO] 2025-09-19T09:03:44.627Z: Client disconnected: 17582726213986byq6kg
+[INFO] 2025-09-19T09:03:44.632Z: Client connected: 1758272624632h8751dc
+[INFO] 2025-09-19T09:03:47.585Z: Client disconnected: 1758272624632h8751dc
+[INFO] 2025-09-19T09:03:47.591Z: Client connected: 175827262759122rjs5o
+[INFO] 2025-09-19T09:03:50.439Z: Client disconnected: 175827262759122rjs5o
+[INFO] 2025-09-19T09:03:50.445Z: Client connected: 1758272630445vr22dxr
+[INFO] 2025-09-19T09:03:53.381Z: Client disconnected: 1758272630445vr22dxr
+[INFO] 2025-09-19T09:03:53.386Z: Client connected: 1758272633386pv5uupq
+[INFO] 2025-09-19T09:03:56.243Z: Client disconnected: 1758272633386pv5uupq
+[INFO] 2025-09-19T09:03:56.247Z: Client connected: 1758272636247ccqpzrf
+[INFO] 2025-09-19T09:03:59.106Z: Client disconnected: 1758272636247ccqpzrf
+[INFO] 2025-09-19T09:03:59.111Z: Client connected: 1758272639111erkvpua
+[INFO] 2025-09-19T09:04:02.252Z: Client connected: 17582726422524pcdzyz
+[INFO] 2025-09-19T09:04:02.369Z: Client disconnected: 1758272639111erkvpua
+[INFO] 2025-09-19T09:04:05.095Z: Client disconnected: 17582726422524pcdzyz
+[INFO] 2025-09-19T09:04:05.100Z: Client connected: 175827264510073qdvyk
+[INFO] 2025-09-19T09:04:08.005Z: Client disconnected: 175827264510073qdvyk
+[INFO] 2025-09-19T09:04:08.009Z: Client connected: 1758272648009znswbhr
+[INFO] 2025-09-19T09:04:10.912Z: Client disconnected: 1758272648009znswbhr
+[INFO] 2025-09-19T09:04:10.918Z: Client connected: 1758272650918smqqp66
+[INFO] 2025-09-19T09:04:13.774Z: Client disconnected: 1758272650918smqqp66
+[INFO] 2025-09-19T09:04:13.781Z: Client connected: 1758272653781ld4f10o
+[INFO] 2025-09-19T09:04:16.773Z: Client disconnected: 1758272653781ld4f10o
+[INFO] 2025-09-19T09:04:16.778Z: Client connected: 17582726567787otfmks
+[INFO] 2025-09-19T09:04:19.629Z: Client disconnected: 17582726567787otfmks
+[INFO] 2025-09-19T09:04:19.635Z: Client connected: 1758272659635jldp9lr
+[INFO] 2025-09-19T09:04:22.529Z: Client disconnected: 1758272659635jldp9lr
+[INFO] 2025-09-19T09:04:22.533Z: Client connected: 1758272662533jbmkry6
+[INFO] 2025-09-19T09:04:25.443Z: Client disconnected: 1758272662533jbmkry6
+[INFO] 2025-09-19T09:04:25.448Z: Client connected: 1758272665448jlxdmcz
+[INFO] 2025-09-19T09:04:28.361Z: Client disconnected: 1758272665448jlxdmcz
+[INFO] 2025-09-19T09:04:28.366Z: Client connected: 17582726683669tmylbc
+[INFO] 2025-09-19T09:04:31.216Z: Client disconnected: 17582726683669tmylbc
+[INFO] 2025-09-19T09:04:31.221Z: Client connected: 1758272671221gyzyl3v
+[INFO] 2025-09-19T09:04:34.155Z: Client disconnected: 1758272671221gyzyl3v
+[INFO] 2025-09-19T09:04:34.161Z: Client connected: 17582726741614q8zk7y
+[INFO] 2025-09-19T09:04:37.030Z: Client disconnected: 17582726741614q8zk7y
+[INFO] 2025-09-19T09:04:37.034Z: Client connected: 1758272677034dwkuhci
+[INFO] 2025-09-19T09:04:39.904Z: Client disconnected: 1758272677034dwkuhci
+[INFO] 2025-09-19T09:04:39.909Z: Client connected: 17582726799099qs1ufd
+[INFO] 2025-09-19T09:04:42.860Z: Client disconnected: 17582726799099qs1ufd
+[INFO] 2025-09-19T09:04:42.865Z: Client connected: 1758272682865bg9lplb
+[INFO] 2025-09-19T09:04:45.764Z: Client disconnected: 1758272682865bg9lplb
+[INFO] 2025-09-19T09:04:45.770Z: Client connected: 1758272685770xnkcdhq
+[INFO] 2025-09-19T09:04:48.828Z: Client connected: 1758272688828o6uwz37
+[INFO] 2025-09-19T09:04:48.914Z: Client disconnected: 1758272685770xnkcdhq
+[INFO] 2025-09-19T09:04:51.754Z: Client disconnected: 1758272688828o6uwz37
+[INFO] 2025-09-19T09:04:51.762Z: Client connected: 1758272691762hmoyotx
+[INFO] 2025-09-19T09:04:54.665Z: Client disconnected: 1758272691762hmoyotx
+[INFO] 2025-09-19T09:04:54.671Z: Client connected: 1758272694671gsqg06g
+[INFO] 2025-09-19T09:04:57.553Z: Client disconnected: 1758272694671gsqg06g
+[INFO] 2025-09-19T09:04:57.561Z: Client connected: 1758272697561iqker7j
+[INFO] 2025-09-19T09:05:00.703Z: Client connected: 17582727007032k8216k
+[INFO] 2025-09-19T09:05:00.782Z: Client disconnected: 1758272697561iqker7j
+[INFO] 2025-09-19T09:05:03.525Z: Client disconnected: 17582727007032k8216k
+[INFO] 2025-09-19T09:05:03.530Z: Client connected: 1758272703530l3nqmfs
+[INFO] 2025-09-19T09:05:06.393Z: Client disconnected: 1758272703530l3nqmfs
+[INFO] 2025-09-19T09:05:06.398Z: Client connected: 1758272706398a7dvlds
+[INFO] 2025-09-19T09:05:09.353Z: Client disconnected: 1758272706398a7dvlds
+[INFO] 2025-09-19T09:05:09.358Z: Client connected: 175827270935803q7x67
+[INFO] 2025-09-19T09:05:12.266Z: Client disconnected: 175827270935803q7x67
+[INFO] 2025-09-19T09:05:12.271Z: Client connected: 1758272712271ycq22j2
+[INFO] 2025-09-19T09:05:15.211Z: Client disconnected: 1758272712271ycq22j2
+[INFO] 2025-09-19T09:05:15.216Z: Client connected: 1758272715216kzhjnxl
+[INFO] 2025-09-19T09:05:18.169Z: Client disconnected: 1758272715216kzhjnxl
+[INFO] 2025-09-19T09:05:18.175Z: Client connected: 17582727181754dt3tac
+[INFO] 2025-09-19T09:05:21.065Z: Client disconnected: 17582727181754dt3tac
+[INFO] 2025-09-19T09:05:21.070Z: Client connected: 175827272107092xg3kn
+[INFO] 2025-09-19T09:05:23.859Z: Client disconnected: 175827272107092xg3kn
+[INFO] 2025-09-19T09:05:23.865Z: Client connected: 1758272723865b5fa8ib
+[INFO] 2025-09-19T09:05:27.009Z: Client disconnected: 1758272723865b5fa8ib
+[INFO] 2025-09-19T09:05:27.014Z: Client connected: 17582727270149uss759
+[INFO] 2025-09-19T09:05:29.977Z: Client disconnected: 17582727270149uss759
+[INFO] 2025-09-19T09:05:29.983Z: Client connected: 17582727299839hpilab
+[INFO] 2025-09-19T09:05:32.894Z: Client disconnected: 17582727299839hpilab
+[INFO] 2025-09-19T09:05:32.900Z: Client connected: 17582727329003gf3ksy
+[INFO] 2025-09-19T09:05:35.845Z: Client disconnected: 17582727329003gf3ksy
+[INFO] 2025-09-19T09:05:35.851Z: Client connected: 175827273585165h7vtp
+[INFO] 2025-09-19T09:05:38.960Z: Client disconnected: 175827273585165h7vtp
+[INFO] 2025-09-19T09:05:38.965Z: Client connected: 1758272738965ayvfedo
+[INFO] 2025-09-19T09:05:41.885Z: Client disconnected: 1758272738965ayvfedo
+[INFO] 2025-09-19T09:05:41.891Z: Client connected: 1758272741891of2xfjz
+[INFO] 2025-09-19T09:05:44.837Z: Client disconnected: 1758272741891of2xfjz
+[INFO] 2025-09-19T09:05:44.842Z: Client connected: 1758272744842ognm83c
+[INFO] 2025-09-19T09:05:47.723Z: Client disconnected: 1758272744842ognm83c
+[INFO] 2025-09-19T09:05:47.729Z: Client connected: 1758272747729joywwvq
+[INFO] 2025-09-19T09:05:50.646Z: Client disconnected: 1758272747729joywwvq
+[INFO] 2025-09-19T09:05:50.651Z: Client connected: 1758272750651auadbxc
+[INFO] 2025-09-19T09:05:53.527Z: Client disconnected: 1758272750651auadbxc
+[INFO] 2025-09-19T09:05:53.532Z: Client connected: 1758272753532j0b4pwv
+[INFO] 2025-09-19T09:06:00.016Z: Client disconnected: 1758272753532j0b4pwv
+[INFO] 2025-09-19T09:07:51.274Z: Server running on port 3000
+[INFO] 2025-09-19T09:07:51.275Z: Environment: development
+[INFO] 2025-09-19T09:07:51.276Z: Connected to SQLite.
+[INFO] 2025-09-19T09:08:01.807Z: Server running on port 3000
+[INFO] 2025-09-19T09:08:01.809Z: Environment: development
+[INFO] 2025-09-19T09:08:01.809Z: Connected to SQLite.
+[INFO] 2025-09-19T09:08:13.706Z: Server running on port 3000
+[INFO] 2025-09-19T09:08:13.708Z: Environment: development
+[INFO] 2025-09-19T09:08:13.709Z: Connected to SQLite.
+[INFO] 2025-09-19T09:08:24.544Z: Server running on port 3000
+[INFO] 2025-09-19T09:08:24.545Z: Environment: development
+[INFO] 2025-09-19T09:08:24.546Z: Connected to SQLite.
+[INFO] 2025-09-19T09:08:36.850Z: Server running on port 3000
+[INFO] 2025-09-19T09:08:36.852Z: Environment: development
+[INFO] 2025-09-19T09:08:36.853Z: Connected to SQLite.
+[INFO] 2025-09-19T09:08:45.797Z: Server running on port 3000
+[INFO] 2025-09-19T09:08:45.799Z: Environment: development
+[INFO] 2025-09-19T09:08:45.799Z: Connected to SQLite.
+[INFO] 2025-09-19T09:08:55.852Z: Server running on port 3000
+[INFO] 2025-09-19T09:08:55.854Z: Environment: development
+[INFO] 2025-09-19T09:08:55.854Z: Connected to SQLite.
+[INFO] 2025-09-19T09:09:15.548Z: Server running on port 3000
+[INFO] 2025-09-19T09:09:15.550Z: Environment: development
+[INFO] 2025-09-19T09:09:15.550Z: Connected to SQLite.
+[INFO] 2025-09-19T09:09:26.280Z: Server running on port 3000
+[INFO] 2025-09-19T09:09:26.281Z: Environment: development
+[INFO] 2025-09-19T09:09:26.282Z: Connected to SQLite.
+[INFO] 2025-09-19T09:09:35.149Z: Server running on port 3000
+[INFO] 2025-09-19T09:09:35.150Z: Environment: development
+[INFO] 2025-09-19T09:09:35.151Z: Connected to SQLite.
+[INFO] 2025-09-19T09:09:51.032Z: Server running on port 3000
+[INFO] 2025-09-19T09:09:51.034Z: Environment: development
+[INFO] 2025-09-19T09:09:51.035Z: Connected to SQLite.
+[INFO] 2025-09-19T09:10:07.055Z: Server running on port 3000
+[INFO] 2025-09-19T09:10:07.056Z: Environment: development
+[INFO] 2025-09-19T09:10:07.057Z: Connected to SQLite.
+[INFO] 2025-09-19T09:10:18.707Z: Server running on port 3000
+[INFO] 2025-09-19T09:10:18.708Z: Environment: development
+[INFO] 2025-09-19T09:10:18.709Z: Connected to SQLite.
+[INFO] 2025-09-19T09:10:30.691Z: Server running on port 3000
+[INFO] 2025-09-19T09:10:30.692Z: Environment: development
+[INFO] 2025-09-19T09:10:30.693Z: Connected to SQLite.
+[INFO] 2025-09-19T09:10:41.248Z: Server running on port 3000
+[INFO] 2025-09-19T09:10:41.251Z: Environment: development
+[INFO] 2025-09-19T09:10:41.251Z: Connected to SQLite.
+[INFO] 2025-09-19T09:11:07.852Z: Server running on port 3000
+[INFO] 2025-09-19T09:11:07.854Z: Environment: development
+[INFO] 2025-09-19T09:11:07.854Z: Connected to SQLite.
+[INFO] 2025-09-19T09:11:20.325Z: Server running on port 3000
+[INFO] 2025-09-19T09:11:20.327Z: Environment: development
+[INFO] 2025-09-19T09:11:20.327Z: Connected to SQLite.
+[INFO] 2025-09-19T09:11:40.263Z: Server running on port 3000
+[INFO] 2025-09-19T09:11:40.265Z: Environment: development
+[INFO] 2025-09-19T09:11:40.266Z: Connected to SQLite.
+[INFO] 2025-09-19T09:11:49.187Z: Server running on port 3000
+[INFO] 2025-09-19T09:11:49.189Z: Environment: development
+[INFO] 2025-09-19T09:11:49.189Z: Connected to SQLite.
+[INFO] 2025-09-19T09:12:00.512Z: Server running on port 3000
+[INFO] 2025-09-19T09:12:00.514Z: Environment: development
+[INFO] 2025-09-19T09:12:00.514Z: Connected to SQLite.
+[INFO] 2025-09-19T09:12:16.030Z: Server running on port 3000
+[INFO] 2025-09-19T09:12:16.031Z: Environment: development
+[INFO] 2025-09-19T09:12:16.032Z: Connected to SQLite.
+[INFO] 2025-09-19T09:12:20.320Z: Server running on port 3000
+[INFO] 2025-09-19T09:12:20.322Z: Environment: development
+[INFO] 2025-09-19T09:12:20.322Z: Connected to SQLite.
+[INFO] 2025-09-19T09:12:24.968Z: Server running on port 3000
+[INFO] 2025-09-19T09:12:24.969Z: Environment: development
+[INFO] 2025-09-19T09:12:24.970Z: Connected to SQLite.
+[INFO] 2025-09-19T09:12:29.288Z: Shutting down...
+[INFO] 2025-09-19T09:12:29.290Z: WS closed.
+[INFO] 2025-09-19T09:12:29.291Z: DB closed.
+[INFO] 2025-09-19T09:12:31.916Z: Connected to SQLite.
+[INFO] 2025-09-19T09:12:31.994Z: Server running on port 3000
+[INFO] 2025-09-19T09:12:31.995Z: Environment: development
+[INFO] 2025-09-19T09:12:37.271Z: WS client connected: 1758273157271mzmqq1z
+[INFO] 2025-09-19T09:12:46.634Z: WS client disconnected: 1758273157271mzmqq1z
+[INFO] 2025-09-19T09:12:46.676Z: WS client connected: 1758273166676mb7uxal
+[INFO] 2025-09-19T09:12:49.908Z: WS client disconnected: 1758273166676mb7uxal
+[INFO] 2025-09-19T09:12:49.918Z: WS client connected: 1758273169918pglb34p
+[INFO] 2025-09-19T09:12:53.159Z: WS client disconnected: 1758273169918pglb34p
+[INFO] 2025-09-19T09:12:53.167Z: WS client connected: 1758273173167p32bz01
+[INFO] 2025-09-19T09:12:57.954Z: WS client disconnected: 1758273173167p32bz01
+[INFO] 2025-09-19T09:12:57.979Z: WS client connected: 1758273177979aux9gch
+[INFO] 2025-09-19T09:13:03.580Z: WS client disconnected: 1758273177979aux9gch
+[INFO] 2025-09-19T09:13:03.837Z: WS client connected: 1758273183837i6vzal7
+[INFO] 2025-09-19T09:13:10.514Z: WS client disconnected: 1758273183837i6vzal7
+[INFO] 2025-09-19T09:13:17.152Z: WS client connected: 1758273197152phcarin
+[INFO] 2025-09-19T09:13:18.987Z: WS client connected: 1758273198987nk3dseg
+[INFO] 2025-09-19T09:13:19.089Z: WS client connected: 1758273199089xp7345b
+[INFO] 2025-09-19T09:13:19.191Z: WS client disconnected: 1758273198987nk3dseg
+[INFO] 2025-09-19T09:13:24.471Z: WS client disconnected: 1758273197152phcarin
+[INFO] 2025-09-19T09:13:24.473Z: WS client disconnected: 1758273199089xp7345b
+[INFO] 2025-09-19T09:13:27.765Z: WS client connected: 1758273207765hyjj1k2
+[INFO] 2025-09-19T09:13:28.876Z: WS client disconnected: 1758273207765hyjj1k2
+[INFO] 2025-09-19T09:13:28.885Z: WS client connected: 1758273208885g2hw5ev
+[INFO] 2025-09-19T09:13:30.354Z: WS client disconnected: 1758273208885g2hw5ev
+[INFO] 2025-09-19T09:13:30.360Z: WS client connected: 1758273210360la9qx9p
+[INFO] 2025-09-19T09:13:31.832Z: WS client disconnected: 1758273210360la9qx9p
+[INFO] 2025-09-19T09:13:31.854Z: WS client connected: 1758273211854ad6pfg3
+[INFO] 2025-09-19T09:13:33.607Z: WS client disconnected: 1758273211854ad6pfg3
+[INFO] 2025-09-19T09:13:33.613Z: WS client connected: 1758273213613tp6iaex
+[INFO] 2025-09-19T09:13:34.442Z: WS client disconnected: 1758273213613tp6iaex
+[INFO] 2025-09-19T09:13:34.448Z: WS client connected: 1758273214448m13q62u
+[INFO] 2025-09-19T09:13:35.186Z: WS client disconnected: 1758273214448m13q62u
+[INFO] 2025-09-19T09:13:35.191Z: WS client connected: 1758273215191z0u4btb
+[INFO] 2025-09-19T09:13:36.074Z: WS client disconnected: 1758273215191z0u4btb
+[INFO] 2025-09-19T09:13:36.080Z: WS client connected: 1758273216080s93ddwl
+[INFO] 2025-09-19T09:13:36.889Z: WS client disconnected: 1758273216080s93ddwl
+[INFO] 2025-09-19T09:13:36.894Z: WS client connected: 1758273216894s5eoeqb
+[INFO] 2025-09-19T09:13:37.893Z: WS client disconnected: 1758273216894s5eoeqb
+[INFO] 2025-09-19T09:13:43.807Z: WS client connected: 17582732238074ub9xe3
+[INFO] 2025-09-19T09:14:14.823Z: WS client disconnected: 17582732238074ub9xe3
+[INFO] 2025-09-19T09:14:14.838Z: WS client connected: 1758273254838gnw171x
+[INFO] 2025-09-19T09:14:16.088Z: WS client disconnected: 1758273254838gnw171x
+[INFO] 2025-09-19T09:14:16.094Z: WS client connected: 1758273256094st3a5hd
+[INFO] 2025-09-19T09:14:17.194Z: WS client connected: 1758273257194vwbjzjh
+[INFO] 2025-09-19T09:14:17.272Z: WS client disconnected: 1758273256094st3a5hd
+[INFO] 2025-09-19T09:14:18.180Z: WS client disconnected: 1758273257194vwbjzjh
+[INFO] 2025-09-19T09:14:18.185Z: WS client connected: 1758273258185bhfk9br
+[INFO] 2025-09-19T09:14:19.325Z: WS client disconnected: 1758273258185bhfk9br
+[INFO] 2025-09-19T09:14:19.329Z: WS client connected: 17582732593298xyde9n
+[INFO] 2025-09-19T09:14:20.390Z: WS client disconnected: 17582732593298xyde9n
+[INFO] 2025-09-19T09:14:20.392Z: WS client connected: 1758273260392kzogjqb
+[INFO] 2025-09-19T09:14:21.535Z: WS client disconnected: 1758273260392kzogjqb
+[INFO] 2025-09-19T09:14:21.541Z: WS client connected: 17582732615418p4mxox
+[INFO] 2025-09-19T09:14:22.800Z: WS client disconnected: 17582732615418p4mxox
+[INFO] 2025-09-19T09:14:22.806Z: WS client connected: 1758273262806wenv89n
+[INFO] 2025-09-19T09:14:24.072Z: WS client disconnected: 1758273262806wenv89n
+[INFO] 2025-09-19T09:14:24.078Z: WS client connected: 17582732640785pnahvr
+[INFO] 2025-09-19T09:14:25.330Z: WS client disconnected: 17582732640785pnahvr
+[INFO] 2025-09-19T09:14:25.335Z: WS client connected: 17582732653350ykyr9y
+[INFO] 2025-09-19T09:14:26.706Z: WS client disconnected: 17582732653350ykyr9y
+[INFO] 2025-09-19T09:14:26.711Z: WS client connected: 17582732667113bm3cdh
+[INFO] 2025-09-19T09:14:28.068Z: WS client disconnected: 17582732667113bm3cdh
+[INFO] 2025-09-19T09:14:28.074Z: WS client connected: 1758273268074i4vw8ry
+[INFO] 2025-09-19T09:14:29.562Z: WS client disconnected: 1758273268074i4vw8ry
+[INFO] 2025-09-19T09:14:29.567Z: WS client connected: 1758273269567bmlm031
+[INFO] 2025-09-19T09:14:30.973Z: WS client disconnected: 1758273269567bmlm031
+[INFO] 2025-09-19T09:14:30.978Z: WS client connected: 17582732709782noht5t
+[INFO] 2025-09-19T09:14:32.432Z: WS client disconnected: 17582732709782noht5t
+[INFO] 2025-09-19T09:14:32.435Z: WS client connected: 17582732724351boiiy7
+[INFO] 2025-09-19T09:14:33.917Z: WS client disconnected: 17582732724351boiiy7
+[INFO] 2025-09-19T09:14:33.923Z: WS client connected: 175827327392375gwpz2
+[INFO] 2025-09-19T09:14:35.564Z: WS client disconnected: 175827327392375gwpz2
+[INFO] 2025-09-19T09:14:35.569Z: WS client connected: 1758273275569itf29hi
+[INFO] 2025-09-19T09:14:37.223Z: WS client disconnected: 1758273275569itf29hi
+[INFO] 2025-09-19T09:14:37.228Z: WS client connected: 1758273277228v8e6h0e
+[INFO] 2025-09-19T09:14:38.835Z: WS client disconnected: 1758273277228v8e6h0e
+[INFO] 2025-09-19T09:14:38.841Z: WS client connected: 17582732788410x8cgxe
+[INFO] 2025-09-19T09:14:40.375Z: WS client disconnected: 17582732788410x8cgxe
+[INFO] 2025-09-19T09:14:40.379Z: WS client connected: 1758273280379fqncu85
+[INFO] 2025-09-19T09:14:41.961Z: WS client disconnected: 1758273280379fqncu85
+[INFO] 2025-09-19T09:14:41.966Z: WS client connected: 1758273281966smbj1h9
+[INFO] 2025-09-19T09:14:43.520Z: WS client disconnected: 1758273281966smbj1h9
+[INFO] 2025-09-19T09:14:43.524Z: WS client connected: 17582732835242eqstkc
+[INFO] 2025-09-19T09:14:45.173Z: WS client disconnected: 17582732835242eqstkc
+[INFO] 2025-09-19T09:14:45.178Z: WS client connected: 1758273285178it8efsv
+[INFO] 2025-09-19T09:14:46.834Z: WS client disconnected: 1758273285178it8efsv
+[INFO] 2025-09-19T09:14:46.839Z: WS client connected: 17582732868395it8bzr
+[INFO] 2025-09-19T09:14:48.577Z: WS client disconnected: 17582732868395it8bzr
+[INFO] 2025-09-19T09:14:48.582Z: WS client connected: 1758273288582ped6rp6
+[INFO] 2025-09-19T09:14:50.308Z: WS client disconnected: 1758273288582ped6rp6
+[INFO] 2025-09-19T09:14:50.314Z: WS client connected: 1758273290314enn03nz
+[INFO] 2025-09-19T09:14:52.141Z: WS client disconnected: 1758273290314enn03nz
+[INFO] 2025-09-19T09:14:52.145Z: WS client connected: 1758273292145j7okwg3
+[INFO] 2025-09-19T09:14:53.925Z: WS client disconnected: 1758273292145j7okwg3
+[INFO] 2025-09-19T09:14:53.930Z: WS client connected: 17582732939300qwlprl
+[INFO] 2025-09-19T09:14:55.807Z: WS client disconnected: 17582732939300qwlprl
+[INFO] 2025-09-19T09:14:55.812Z: WS client connected: 1758273295812n6v9mx5
+[INFO] 2025-09-19T09:14:57.741Z: WS client disconnected: 1758273295812n6v9mx5
+[INFO] 2025-09-19T09:14:57.746Z: WS client connected: 1758273297746kwxrw7i
+[INFO] 2025-09-19T09:14:59.820Z: WS client connected: 1758273299820znvace3
+[INFO] 2025-09-19T09:14:59.885Z: WS client disconnected: 1758273297746kwxrw7i
+[INFO] 2025-09-19T09:15:01.896Z: WS client connected: 1758273301896raq078a
+[INFO] 2025-09-19T09:15:01.977Z: WS client disconnected: 1758273299820znvace3
+[INFO] 2025-09-19T09:15:04.020Z: WS client connected: 1758273304020krqj72p
+[INFO] 2025-09-19T09:15:04.065Z: WS client disconnected: 1758273301896raq078a
+[INFO] 2025-09-19T09:15:06.223Z: WS client disconnected: 1758273304020krqj72p
+[INFO] 2025-09-19T09:15:06.228Z: WS client connected: 1758273306228xmc0ji1
+[INFO] 2025-09-19T09:15:08.442Z: WS client disconnected: 1758273306228xmc0ji1
+[INFO] 2025-09-19T09:15:08.447Z: WS client connected: 1758273308447x59t4k3
+[INFO] 2025-09-19T09:15:10.801Z: WS client disconnected: 1758273308447x59t4k3
+[INFO] 2025-09-19T09:15:10.811Z: WS client connected: 1758273310811qloo150
+[INFO] 2025-09-19T09:15:13.216Z: WS client disconnected: 1758273310811qloo150
+[INFO] 2025-09-19T09:15:13.221Z: WS client connected: 1758273313221ckd6bow
+[INFO] 2025-09-19T09:15:15.596Z: WS client disconnected: 1758273313221ckd6bow
+[INFO] 2025-09-19T09:15:15.601Z: WS client connected: 1758273315601xp9twv6
+[INFO] 2025-09-19T09:15:18.178Z: WS client disconnected: 1758273315601xp9twv6
+[INFO] 2025-09-19T09:15:18.183Z: WS client connected: 17582733181831rrzzvh
+[INFO] 2025-09-19T09:15:20.763Z: WS client disconnected: 17582733181831rrzzvh
+[INFO] 2025-09-19T09:15:20.768Z: WS client connected: 1758273320768gfhkc9f
+[INFO] 2025-09-19T09:15:23.476Z: WS client disconnected: 1758273320768gfhkc9f
+[INFO] 2025-09-19T09:15:23.482Z: WS client connected: 1758273323482yakt36m
+[INFO] 2025-09-19T09:15:26.120Z: WS client disconnected: 1758273323482yakt36m
+[INFO] 2025-09-19T09:15:26.126Z: WS client connected: 17582733261266k3lcto
+[INFO] 2025-09-19T09:15:28.963Z: WS client disconnected: 17582733261266k3lcto
+[INFO] 2025-09-19T09:15:28.968Z: WS client connected: 17582733289681acpukg
+[INFO] 2025-09-19T09:15:31.713Z: WS client disconnected: 17582733289681acpukg
+[INFO] 2025-09-19T09:15:31.718Z: WS client connected: 1758273331718e0zig8g
+[INFO] 2025-09-19T09:15:34.523Z: WS client disconnected: 1758273331718e0zig8g
+[INFO] 2025-09-19T09:15:34.528Z: WS client connected: 1758273334528yjwfntf
+[INFO] 2025-09-19T09:15:37.408Z: WS client disconnected: 1758273334528yjwfntf
+[INFO] 2025-09-19T09:15:37.413Z: WS client connected: 1758273337413tpetpry
+[INFO] 2025-09-19T09:15:40.330Z: WS client disconnected: 1758273337413tpetpry
+[INFO] 2025-09-19T09:15:40.335Z: WS client connected: 17582733403353ycehfz
+[INFO] 2025-09-19T09:15:43.413Z: WS client connected: 1758273343413eqbxmkr
+[INFO] 2025-09-19T09:15:43.482Z: WS client disconnected: 17582733403353ycehfz
+[INFO] 2025-09-19T09:15:46.304Z: WS client disconnected: 1758273343413eqbxmkr
+[INFO] 2025-09-19T09:15:46.309Z: WS client connected: 175827334630969vk14v
+[INFO] 2025-09-19T09:15:49.429Z: WS client disconnected: 175827334630969vk14v
+[INFO] 2025-09-19T09:15:49.434Z: WS client connected: 1758273349434cd64ez7
+[INFO] 2025-09-19T09:15:52.389Z: WS client disconnected: 1758273349434cd64ez7
+[INFO] 2025-09-19T09:15:52.392Z: WS client connected: 1758273352392yww0bel
+[INFO] 2025-09-19T09:15:55.330Z: WS client disconnected: 1758273352392yww0bel
+[INFO] 2025-09-19T09:15:55.335Z: WS client connected: 17582733553354sdhy8l
+[INFO] 2025-09-19T09:15:58.277Z: WS client disconnected: 17582733553354sdhy8l
+[INFO] 2025-09-19T09:15:58.283Z: WS client connected: 1758273358283rmococt
+[INFO] 2025-09-19T09:16:01.247Z: WS client disconnected: 1758273358283rmococt
+[INFO] 2025-09-19T09:16:01.252Z: WS client connected: 1758273361252sgo53ju
+[INFO] 2025-09-19T09:16:04.356Z: WS client connected: 1758273364356wsm365y
+[INFO] 2025-09-19T09:16:04.435Z: WS client disconnected: 1758273361252sgo53ju
+[INFO] 2025-09-19T09:16:07.224Z: WS client disconnected: 1758273364356wsm365y
+[INFO] 2025-09-19T09:16:07.229Z: WS client connected: 175827336722932a8w5z
+[INFO] 2025-09-19T09:16:10.312Z: WS client connected: 1758273370312pgkwx8b
+[INFO] 2025-09-19T09:16:10.383Z: WS client disconnected: 175827336722932a8w5z
+[INFO] 2025-09-19T09:16:13.247Z: WS client disconnected: 1758273370312pgkwx8b
+[INFO] 2025-09-19T09:16:13.252Z: WS client connected: 1758273373252ey2tpnn
+[INFO] 2025-09-19T09:16:16.186Z: WS client disconnected: 1758273373252ey2tpnn
+[INFO] 2025-09-19T09:16:16.198Z: WS client connected: 1758273376198c7xa1a6
+[INFO] 2025-09-19T09:16:19.160Z: WS client disconnected: 1758273376198c7xa1a6
+[INFO] 2025-09-19T09:16:19.165Z: WS client connected: 1758273379165mvuvdwf
+[INFO] 2025-09-19T09:16:22.080Z: WS client disconnected: 1758273379165mvuvdwf
+[INFO] 2025-09-19T09:16:22.085Z: WS client connected: 1758273382085romyihe
+[INFO] 2025-09-19T09:16:25.179Z: WS client connected: 1758273385179vqmjhwu
+[INFO] 2025-09-19T09:16:25.229Z: WS client disconnected: 1758273382085romyihe
+[INFO] 2025-09-19T09:16:28.065Z: WS client disconnected: 1758273385179vqmjhwu
+[INFO] 2025-09-19T09:16:28.069Z: WS client connected: 17582733880691py845b
+[INFO] 2025-09-19T09:16:30.976Z: WS client disconnected: 17582733880691py845b
+[INFO] 2025-09-19T09:16:30.981Z: WS client connected: 1758273390981vy89mpc
+[INFO] 2025-09-19T09:16:34.077Z: WS client connected: 1758273394077ymy9ial
+[INFO] 2025-09-19T09:16:34.143Z: WS client disconnected: 1758273390981vy89mpc
+[INFO] 2025-09-19T09:16:36.920Z: WS client disconnected: 1758273394077ymy9ial
+[INFO] 2025-09-19T09:16:36.925Z: WS client connected: 1758273396925lge1pbt
+[INFO] 2025-09-19T09:16:39.994Z: WS client connected: 1758273399994v7kt498
+[INFO] 2025-09-19T09:16:40.098Z: WS client disconnected: 1758273396925lge1pbt
+[INFO] 2025-09-19T09:16:42.892Z: WS client disconnected: 1758273399994v7kt498
+[INFO] 2025-09-19T09:16:42.897Z: WS client connected: 1758273402897fxxn6o6
+[INFO] 2025-09-19T09:16:45.831Z: WS client disconnected: 1758273402897fxxn6o6
+[INFO] 2025-09-19T09:16:45.839Z: WS client connected: 1758273405839cn0k35t
+[INFO] 2025-09-19T09:16:48.830Z: WS client disconnected: 1758273405839cn0k35t
+[INFO] 2025-09-19T09:16:48.835Z: WS client connected: 1758273408835vj6gvic
+[INFO] 2025-09-19T09:16:51.751Z: WS client disconnected: 1758273408835vj6gvic
+[INFO] 2025-09-19T09:16:51.757Z: WS client connected: 1758273411757m72mhzr
+[INFO] 2025-09-19T09:16:54.824Z: WS client connected: 1758273414824x3fwaqb
+[INFO] 2025-09-19T09:16:54.904Z: WS client disconnected: 1758273411757m72mhzr
+[INFO] 2025-09-19T09:16:57.683Z: WS client disconnected: 1758273414824x3fwaqb
+[INFO] 2025-09-19T09:16:57.689Z: WS client connected: 1758273417688tch73un
+[INFO] 2025-09-19T09:17:00.606Z: WS client disconnected: 1758273417688tch73un
+[INFO] 2025-09-19T09:17:00.611Z: WS client connected: 1758273420611cyu78hv
+[INFO] 2025-09-19T09:17:03.590Z: WS client disconnected: 1758273420611cyu78hv
+[INFO] 2025-09-19T09:17:03.595Z: WS client connected: 17582734235953fuiark
+[INFO] 2025-09-19T09:17:06.474Z: WS client disconnected: 17582734235953fuiark
+[INFO] 2025-09-19T09:17:06.479Z: WS client connected: 1758273426479377zca7
+[INFO] 2025-09-19T09:17:09.393Z: WS client disconnected: 1758273426479377zca7
+[INFO] 2025-09-19T09:17:09.402Z: WS client connected: 1758273429402b9mwthq
+[INFO] 2025-09-19T09:17:12.404Z: WS client disconnected: 1758273429402b9mwthq
+[INFO] 2025-09-19T09:17:12.409Z: WS client connected: 1758273432409dia3nxd
+[INFO] 2025-09-19T09:17:15.377Z: WS client disconnected: 1758273432409dia3nxd
+[INFO] 2025-09-19T09:17:15.383Z: WS client connected: 1758273435382cqw7ap2
+[INFO] 2025-09-19T09:17:18.491Z: WS client connected: 1758273438491vdjla7l
+[INFO] 2025-09-19T09:17:18.553Z: WS client disconnected: 1758273435382cqw7ap2
+[INFO] 2025-09-19T09:17:21.381Z: WS client disconnected: 1758273438491vdjla7l
+[INFO] 2025-09-19T09:17:21.386Z: WS client connected: 1758273441386k6l8awk
+[INFO] 2025-09-19T09:17:24.274Z: WS client disconnected: 1758273441386k6l8awk
+[INFO] 2025-09-19T09:17:24.280Z: WS client connected: 1758273444280ja4dzql
+[INFO] 2025-09-19T09:17:27.339Z: WS client connected: 1758273447339wc71g91
+[INFO] 2025-09-19T09:17:27.432Z: WS client disconnected: 1758273444280ja4dzql
+[INFO] 2025-09-19T09:17:30.238Z: WS client disconnected: 1758273447339wc71g91
+[INFO] 2025-09-19T09:17:30.244Z: WS client connected: 1758273450244vazhi4v
+[INFO] 2025-09-19T09:17:33.149Z: WS client disconnected: 1758273450244vazhi4v
+[INFO] 2025-09-19T09:17:33.155Z: WS client connected: 1758273453155c9fdplw
+[INFO] 2025-09-19T09:17:36.126Z: WS client disconnected: 1758273453155c9fdplw
+[INFO] 2025-09-19T09:17:36.131Z: WS client connected: 17582734561317182ld6
+[INFO] 2025-09-19T09:17:39.079Z: WS client disconnected: 17582734561317182ld6
+[INFO] 2025-09-19T09:17:39.085Z: WS client connected: 17582734590858mz5sek
+[INFO] 2025-09-19T09:17:42.055Z: WS client disconnected: 17582734590858mz5sek
+[INFO] 2025-09-19T09:17:42.060Z: WS client connected: 175827346206078z3s90
+[INFO] 2025-09-19T09:17:44.943Z: WS client disconnected: 175827346206078z3s90
+[INFO] 2025-09-19T09:17:44.948Z: WS client connected: 175827346494866xnvno
+[INFO] 2025-09-19T09:17:47.834Z: WS client disconnected: 175827346494866xnvno
+[INFO] 2025-09-19T09:17:47.839Z: WS client connected: 1758273467839cetyioa
+[INFO] 2025-09-19T09:17:50.797Z: WS client disconnected: 1758273467839cetyioa
+[INFO] 2025-09-19T09:17:50.801Z: WS client connected: 1758273470801gzoinso
+[INFO] 2025-09-19T09:17:53.798Z: WS client disconnected: 1758273470801gzoinso
+[INFO] 2025-09-19T09:17:53.803Z: WS client connected: 1758273473803dqbvjtq
+[INFO] 2025-09-19T09:17:56.882Z: WS client connected: 1758273476882xt8g3xb
+[INFO] 2025-09-19T09:17:56.958Z: WS client disconnected: 1758273473803dqbvjtq
+[INFO] 2025-09-19T09:17:59.933Z: WS client connected: 1758273479933xoxwebp
+[INFO] 2025-09-19T09:18:00.007Z: WS client disconnected: 1758273476882xt8g3xb
+[INFO] 2025-09-19T09:18:02.854Z: WS client disconnected: 1758273479933xoxwebp
+[INFO] 2025-09-19T09:18:02.860Z: WS client connected: 1758273482860keyl1ks
+[INFO] 2025-09-19T09:18:05.814Z: WS client disconnected: 1758273482860keyl1ks
+[INFO] 2025-09-19T09:18:05.819Z: WS client connected: 1758273485819jqq87r4
+[INFO] 2025-09-19T09:18:08.723Z: WS client disconnected: 1758273485819jqq87r4
+[INFO] 2025-09-19T09:18:08.728Z: WS client connected: 1758273488728uwr5h4i
+[INFO] 2025-09-19T09:18:11.627Z: WS client disconnected: 1758273488728uwr5h4i
+[INFO] 2025-09-19T09:18:11.633Z: WS client connected: 1758273491632ihcd3ga
+[INFO] 2025-09-19T09:18:14.606Z: WS client disconnected: 1758273491632ihcd3ga
+[INFO] 2025-09-19T09:18:14.612Z: WS client connected: 1758273494612l085nm4
+[INFO] 2025-09-19T09:18:17.509Z: WS client disconnected: 1758273494612l085nm4
+[INFO] 2025-09-19T09:18:17.513Z: WS client connected: 1758273497513kj1xz53
+[INFO] 2025-09-19T09:18:20.427Z: WS client disconnected: 1758273497513kj1xz53
+[INFO] 2025-09-19T09:18:20.432Z: WS client connected: 1758273500432murjwq1
+[INFO] 2025-09-19T09:18:23.390Z: WS client disconnected: 1758273500432murjwq1
+[INFO] 2025-09-19T09:18:23.396Z: WS client connected: 1758273503395fasuins
+[INFO] 2025-09-19T09:18:26.309Z: WS client disconnected: 1758273503395fasuins
+[INFO] 2025-09-19T09:18:26.315Z: WS client connected: 175827350631522384kb
+[INFO] 2025-09-19T09:18:29.245Z: WS client disconnected: 175827350631522384kb
+[INFO] 2025-09-19T09:18:29.251Z: WS client connected: 1758273509251q5pea40
+[INFO] 2025-09-19T09:18:32.325Z: WS client connected: 1758273512325361716t
+[INFO] 2025-09-19T09:18:32.432Z: WS client disconnected: 1758273509251q5pea40
+[INFO] 2025-09-19T09:18:35.229Z: WS client disconnected: 1758273512325361716t
+[INFO] 2025-09-19T09:18:35.235Z: WS client connected: 1758273515235o8ur0k8
+[INFO] 2025-09-19T09:18:38.168Z: WS client disconnected: 1758273515235o8ur0k8
+[INFO] 2025-09-19T09:18:38.173Z: WS client connected: 17582735181737gbxj11
+[INFO] 2025-09-19T09:18:41.237Z: WS client connected: 1758273521237s6dgp6q
+[INFO] 2025-09-19T09:18:41.335Z: WS client disconnected: 17582735181737gbxj11
+[INFO] 2025-09-19T09:18:44.090Z: WS client disconnected: 1758273521237s6dgp6q
+[INFO] 2025-09-19T09:18:44.095Z: WS client connected: 1758273524095ls4sn6c
+[INFO] 2025-09-19T09:18:47.036Z: WS client disconnected: 1758273524095ls4sn6c
+[INFO] 2025-09-19T09:18:47.042Z: WS client connected: 1758273527042ldarku6
+[INFO] 2025-09-19T09:18:49.935Z: WS client disconnected: 1758273527042ldarku6
+[INFO] 2025-09-19T09:18:49.940Z: WS client connected: 17582735299409mafg4d
+[INFO] 2025-09-19T09:18:52.836Z: WS client disconnected: 17582735299409mafg4d
+[INFO] 2025-09-19T09:18:52.841Z: WS client connected: 1758273532841z3vwncu
+[INFO] 2025-09-19T09:18:55.823Z: WS client disconnected: 1758273532841z3vwncu
+[INFO] 2025-09-19T09:18:55.829Z: WS client connected: 1758273535829mntwya5
+[INFO] 2025-09-19T09:18:58.733Z: WS client disconnected: 1758273535829mntwya5
+[INFO] 2025-09-19T09:18:58.738Z: WS client connected: 1758273538738wdnajfk
+[INFO] 2025-09-19T09:19:01.650Z: WS client disconnected: 1758273538738wdnajfk
+[INFO] 2025-09-19T09:19:01.654Z: WS client connected: 1758273541654vgay8e7
+[INFO] 2025-09-19T09:19:04.780Z: WS client disconnected: 1758273541654vgay8e7
+[INFO] 2025-09-19T09:19:04.785Z: WS client connected: 1758273544785tt9vu6g
+[INFO] 2025-09-19T09:19:07.687Z: WS client disconnected: 1758273544785tt9vu6g
+[INFO] 2025-09-19T09:19:07.692Z: WS client connected: 1758273547692f9lqx52
+[INFO] 2025-09-19T09:19:10.620Z: WS client disconnected: 1758273547692f9lqx52
+[INFO] 2025-09-19T09:19:10.625Z: WS client connected: 17582735506254rii35l
+[INFO] 2025-09-19T09:19:13.593Z: WS client disconnected: 17582735506254rii35l
+[INFO] 2025-09-19T09:19:13.598Z: WS client connected: 1758273553598zyuct5m
+[INFO] 2025-09-19T09:19:16.510Z: WS client disconnected: 1758273553598zyuct5m
+[INFO] 2025-09-19T09:19:16.515Z: WS client connected: 1758273556515bbttp75
+[INFO] 2025-09-19T09:19:19.469Z: WS client disconnected: 1758273556515bbttp75
+[INFO] 2025-09-19T09:19:19.474Z: WS client connected: 1758273559474gfkcdpl
+[INFO] 2025-09-19T09:19:22.450Z: WS client disconnected: 1758273559474gfkcdpl
+[INFO] 2025-09-19T09:19:22.455Z: WS client connected: 1758273562455fyzf8pg
+[INFO] 2025-09-19T09:19:25.543Z: WS client connected: 1758273565543w8zqv78
+[INFO] 2025-09-19T09:19:25.619Z: WS client disconnected: 1758273562455fyzf8pg
+[INFO] 2025-09-19T09:19:25.655Z: WS client disconnected: 1758273565543w8zqv78
+[INFO] 2025-09-19T09:19:25.668Z: WS client connected: 1758273565668ldjwz87
+[INFO] 2025-09-19T09:19:28.907Z: WS client connected: 1758273568907n8w2z3u
+[INFO] 2025-09-19T09:20:16.775Z: WS client disconnected: 1758273565668ldjwz87
+[INFO] 2025-09-19T09:20:16.792Z: WS client connected: 1758273616792mq54af3
+[INFO] 2025-09-19T09:22:46.071Z: Connected to SQLite.
+[INFO] 2025-09-19T09:22:46.215Z: Server running on port 3000
+[INFO] 2025-09-19T09:22:46.215Z: Environment: development
+[INFO] 2025-09-19T09:22:49.266Z: WS client connected: 1758273769266yt404ui
+[INFO] 2025-09-19T09:22:49.358Z: WS client connected: 1758273769358aq958gm
+[INFO] 2025-09-19T09:22:52.419Z: Connected to SQLite.
+[INFO] 2025-09-19T09:22:52.514Z: Server running on port 3000
+[INFO] 2025-09-19T09:22:52.515Z: Environment: development
+[INFO] 2025-09-19T09:22:56.352Z: WS client connected: 1758273776352f01wiyp
+[INFO] 2025-09-19T09:22:56.436Z: WS client connected: 1758273776436b4m6y49
+[INFO] 2025-09-19T09:22:58.456Z: Connected to SQLite.
+[INFO] 2025-09-19T09:22:58.548Z: Server running on port 3000
+[INFO] 2025-09-19T09:22:58.549Z: Environment: development
+[INFO] 2025-09-19T09:23:04.474Z: WS client connected: 1758273784474jykznqf
+[INFO] 2025-09-19T09:23:04.561Z: WS client connected: 1758273784561bt5l6zz
+[INFO] 2025-09-19T09:23:05.354Z: Connected to SQLite.
+[INFO] 2025-09-19T09:23:05.446Z: Server running on port 3000
+[INFO] 2025-09-19T09:23:05.446Z: Environment: development
+[INFO] 2025-09-19T09:23:10.854Z: WS client connected: 17582737908542tduerh
+[INFO] 2025-09-19T09:23:10.939Z: WS client connected: 1758273790939dgz1yo8
+[INFO] 2025-09-19T09:23:16.516Z: Connected to SQLite.
+[INFO] 2025-09-19T09:23:16.612Z: Server running on port 3000
+[INFO] 2025-09-19T09:23:16.612Z: Environment: development
+[INFO] 2025-09-19T09:23:20.661Z: WS client connected: 1758273800661c0b48nv
+[INFO] 2025-09-19T09:23:20.737Z: WS client connected: 17582738007377gttcdz
+[INFO] 2025-09-19T09:23:25.741Z: Connected to SQLite.
+[INFO] 2025-09-19T09:23:25.859Z: Server running on port 3000
+[INFO] 2025-09-19T09:23:25.860Z: Environment: development
+[INFO] 2025-09-19T09:23:30.268Z: WS client connected: 1758273810268o1zelz2
+[INFO] 2025-09-19T09:23:30.350Z: WS client connected: 1758273810350ybvirzb
+[INFO] 2025-09-19T09:23:36.518Z: Connected to SQLite.
+[INFO] 2025-09-19T09:23:36.640Z: Server running on port 3000
+[INFO] 2025-09-19T09:23:36.640Z: Environment: development
+[INFO] 2025-09-19T09:23:39.968Z: WS client connected: 17582738199682vcmvph
+[INFO] 2025-09-19T09:23:40.031Z: WS client connected: 1758273820031xk6m5n1
+[INFO] 2025-09-19T09:23:49.965Z: Connected to SQLite.
+[INFO] 2025-09-19T09:23:50.053Z: Server running on port 3000
+[INFO] 2025-09-19T09:23:50.054Z: Environment: development
+[INFO] 2025-09-19T09:23:55.861Z: Connected to SQLite.
+[INFO] 2025-09-19T09:23:55.950Z: Server running on port 3000
+[INFO] 2025-09-19T09:23:55.951Z: Environment: development
+[INFO] 2025-09-19T09:23:56.138Z: WS client connected: 175827383613842383mn
+[INFO] 2025-09-19T09:23:56.211Z: WS client connected: 17582738362112jani8w
+[INFO] 2025-09-19T09:24:03.241Z: Connected to SQLite.
+[INFO] 2025-09-19T09:24:03.345Z: Server running on port 3000
+[INFO] 2025-09-19T09:24:03.345Z: Environment: development
+[INFO] 2025-09-19T09:24:09.556Z: WS client connected: 1758273849556tgs6hhl
+[INFO] 2025-09-19T09:24:09.630Z: WS client connected: 1758273849630qd3cnyf
+[INFO] 2025-09-19T09:24:47.160Z: WS client disconnected: 1758273849556tgs6hhl
+[INFO] 2025-09-19T09:24:47.168Z: WS client connected: 1758273887168m5nxgqf
+[INFO] 2025-09-19T09:24:50.391Z: WS client connected: 17582738903919ms1xnk
+[INFO] 2025-09-19T09:28:51.645Z: Shutting down...
+[INFO] 2025-09-19T09:28:51.648Z: Shutting down...
+[INFO] 2025-09-19T09:28:51.653Z: DB closed.
+[ERROR] 2025-09-19T09:28:51.654Z: DB close error: SQLITE_MISUSE: Database handle is closed
+[INFO] 2025-09-19T09:33:26.340Z: Connected to SQLite.
+[INFO] 2025-09-19T09:33:26.428Z: Server running on port 3000
+[INFO] 2025-09-19T09:33:26.428Z: Environment: development
+[INFO] 2025-09-19T09:33:26.653Z: WS client connected: 17582744066535veslsn
+[INFO] 2025-09-19T09:33:30.098Z: WS client connected: 1758274410098q7x0ons
+[INFO] 2025-09-19T09:33:30.137Z: WS client connected: 1758274410137n79uo8r
+[INFO] 2025-09-19T09:33:41.709Z: WS client disconnected: 1758274410137n79uo8r
+[INFO] 2025-09-19T09:33:41.709Z: WS client disconnected: 17582744066535veslsn
+[INFO] 2025-09-19T09:33:41.709Z: WS client disconnected: 1758274410098q7x0ons
+[INFO] 2025-09-19T09:33:58.544Z: WS client connected: 1758274438544fqpnvsl
+[INFO] 2025-09-19T09:44:48.688Z: WS client disconnected: 1758274438544fqpnvsl
+[INFO] 2025-09-19T09:44:48.740Z: WS client connected: 17582750887403l5rrpf
+[INFO] 2025-09-19T09:44:57.902Z: WS client connected: 1758275097902h1i5k26
+[INFO] 2025-09-19T09:44:57.974Z: WS client disconnected: 17582750887403l5rrpf
+[INFO] 2025-09-19T09:45:27.243Z: WS client disconnected: 1758275097902h1i5k26
+[INFO] 2025-09-19T09:45:27.259Z: WS client connected: 1758275127259228o1yx
+[INFO] 2025-09-19T09:48:13.198Z: WS client disconnected: 1758275127259228o1yx
+[INFO] 2025-09-19T10:02:36.778Z: WS client connected: 1758276156778zll5mlf
